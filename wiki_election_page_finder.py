@@ -7,9 +7,12 @@ from html.parser import HTMLParser
 from tqdm import trange
 
 
-WIKI_URL = 'https://en.wikipedia.org/wiki'
+WIKI_URL = 'https://en.wikipedia.org/'
 
-elections_filename = 'election_wiki_pages.txt'
+
+DATA_FOLDER = 'data'
+
+elections_filename = DATA_FOLDER + '/election_wiki_pages.txt'
 
 
 class WikiElectionRefsParser(HTMLParser):
@@ -40,7 +43,7 @@ parser = WikiElectionRefsParser()
 
 
 for year in trange(1900, 2021):
-    r = requests.get(WIKI_URL + f'/List_of_elections_in_{year}')
+    r = requests.get(WIKI_URL + f'wiki/List_of_elections_in_{year}')
     try:
         parser.feed(r.text)
     except Exception as e:

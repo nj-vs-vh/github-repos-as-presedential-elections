@@ -27,8 +27,10 @@ def get_repo_languages(owner, repo):
         return None
 
 
-repos_filename = 'popular_repos.txt'
-languages_in_repos_filename = 'languages_in_repos.yaml'
+DATA_FOLDER = 'data'
+
+repos_filename = DATA_FOLDER + '/popular_repos.txt'
+languages_in_repos_filename = DATA_FOLDER + '/languages_in_repos.yaml'
 
 with open(languages_in_repos_filename, 'r') as lang_file:
     languages_by_repo = yaml.safe_load(lang_file)

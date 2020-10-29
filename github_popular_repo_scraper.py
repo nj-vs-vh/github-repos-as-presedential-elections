@@ -17,7 +17,8 @@ GITHUB_REPO_SEARC_API_URL = GITHUB_API_URL + 'search/repositories'
 github_auth_token = os.environ.get('GITHUB_TOKEN')
 
 
-popular_repos_filename = 'popular_repos.txt'
+DATA_FOLDER = 'data'
+popular_repos_filename = DATA_FOLDER + '/popular_repos.txt'
 
 with open(popular_repos_filename, 'r') as f:
     popular_repos = {line.strip('\n') for line in f}
