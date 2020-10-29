@@ -60,4 +60,4 @@ for word in query_words:
 
 
 with open(popular_repos_filename, 'w') as f:
-    f.writelines(line + '\n' for line in popular_repos)
+    f.writelines(line + '\n' for line in sorted(popular_repos))

@@ -53,4 +53,4 @@ try:
                 languages_by_repo[repo_id] = languages_dict
 finally:
     with open(languages_in_repos_filename, 'w') as lang_file:
-        yaml.dump(languages_by_repo, lang_file)
+        yaml.dump(languages_by_repo, lang_file, sort_keys=True)
