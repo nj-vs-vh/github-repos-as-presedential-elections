@@ -12,26 +12,29 @@ GITHUB_API_URL = 'https://api.github.com/'
 
 GITHUB_REPO_SEARC_API_URL = GITHUB_API_URL + 'search/repositories'
 
-'?q=the&sort=stars&order=desc&per_page=3&page=2'
+
+popular_repos_filename = 'popular_repos.txt'
+
+with open(popular_repos_filename, 'r') as f:
+    popular_repos = {line for line in f}
 
 
-popular_english_words = ['the', 'of', 'and', 'to', 'a', 'in', 'that']
+# TODO: IT-related terms like 'framework', 'library', 'package', 'module', 'pipeline'
+#       Specific areas like 'machine learning', 'NLP', 'web', 'system'
+query_words = ['the', 'of', 'and', 'to', 'a', 'in', 'that']
 
 
-popular_repos = set()
-
-
-min_allowed_query_period = 8  # sec, teqnically 6, but let's play safe
+min_allowed_query_period = 8  # sec, tecnically as less as 6 is ok, but we play safe
 per_page = 100  # max allowed by API
 
 
-for popular_word in popular_english_words:
+for word in query_words:
     for page in trange(1, 1 + (1000 // per_page + 1)):
         start_time = time.time()
         r = requests.get(
             GITHUB_REPO_SEARC_API_URL,
             params={
-                'q': popular_word,
+                'q': word,
                 'sort': 'stars',
                 'order': 'desc',
                 'per_page': per_page,
@@ -49,5 +52,5 @@ for popular_word in popular_english_words:
         time.sleep(max(min_allowed_query_period - duration, 0))
 
 
-with open('popular_repos.txt', 'w') as f:
+with open(popular_repos_filename, 'w') as f:
     f.writelines(line + '\n' for line in popular_repos)

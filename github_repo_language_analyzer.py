@@ -5,6 +5,8 @@ from requests.auth import HTTPBasicAuth
 
 import yaml
 
+from tqdm import tqdm
+
 
 GITHUB_HEADER = {'Accept': 'application/vnd.github.v3+json'}
 
@@ -25,18 +27,30 @@ def get_repo_languages(owner, repo):
         return None
 
 
-languages_by_repo = dict()
+repos_filename = 'popular_repos.txt'
+languages_in_repos_filename = 'languages_in_repos.yaml'
+
+with open(languages_in_repos_filename, 'r') as lang_file:
+    languages_by_repo = yaml.safe_load(lang_file)
 
 
-with open('popular_repos.txt') as repos_file:
-    repo_ids = repos_file.readlines()
-    for _repo_id in repo_ids:
-        repo_id = _repo_id.strip('\n')
-        owner, repo = repo_id.split('/')
-        languages_dict = get_repo_languages(owner, repo)
-        if languages_dict is not None:
-            languages_dict[repo_id] = languages_dict
+# count lines in file
+with open(repos_filename) as f:
+    for total, l in enumerate(f):
+        pass
+total += 1
 
 
-with open('language_repos.yaml', 'w') as lang_file:
-    yaml.dump(languages_by_repo, lang_file)
+try:
+    with open(repos_filename) as repos_file:
+        for repo_id in tqdm(repos_file, total=total):
+            repo_id = repo_id.strip('\n')
+            if repo_id in languages_by_repo:
+                continue
+            owner, repo = repo_id.split('/')
+            languages_dict = get_repo_languages(owner, repo)
+            if languages_dict is not None:
+                languages_by_repo[repo_id] = languages_dict
+finally:
+    with open(languages_in_repos_filename, 'w') as lang_file:
+        yaml.dump(languages_by_repo, lang_file)
