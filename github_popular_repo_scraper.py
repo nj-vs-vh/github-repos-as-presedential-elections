@@ -1,6 +1,9 @@
 """Scraping GitHub for popular repos by using Search API"""
+import os
 
 import requests
+from requests.auth import HTTPBasicAuth
+
 import time
 from tqdm import trange
 
@@ -9,22 +12,25 @@ GITHUB_HEADER = {'Accept': 'application/vnd.github.v3+json'}
 
 GITHUB_API_URL = 'https://api.github.com/'
 
-
 GITHUB_REPO_SEARC_API_URL = GITHUB_API_URL + 'search/repositories'
+
+github_auth_token = os.environ.get('GITHUB_TOKEN')
 
 
 popular_repos_filename = 'popular_repos.txt'
 
 with open(popular_repos_filename, 'r') as f:
-    popular_repos = {line for line in f}
+    popular_repos = {line.strip('\n') for line in f}
 
 
 # TODO: IT-related terms like 'framework', 'library', 'package', 'module', 'pipeline'
 #       Specific areas like 'machine learning', 'NLP', 'web', 'system'
-query_words = ['the', 'of', 'and', 'to', 'a', 'in', 'that']
+
+# query_words = ['the', 'of', 'and', 'to', 'a', 'in', 'that']
+query_words = ['framework', 'library', 'package', 'module', 'pipeline']
 
 
-min_allowed_query_period = 8  # sec, tecnically as less as 6 is ok, but we play safe
+min_allowed_query_period = 3  # sec, tecnically as less as 2 is ok with auth, but we play safe
 per_page = 100  # max allowed by API
 
 
@@ -40,7 +46,8 @@ for word in query_words:
                 'per_page': per_page,
                 'page': page
             },
-            headers=GITHUB_HEADER
+            headers=GITHUB_HEADER,
+            auth=HTTPBasicAuth('nj-vs-vh', github_auth_token),
         )
         try:
             repos = r.json()['items']
