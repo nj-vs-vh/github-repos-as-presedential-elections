@@ -2,6 +2,8 @@ import re
 
 import requests
 
+import time
+
 from html.parser import HTMLParser
 
 from tqdm import trange
@@ -32,7 +34,12 @@ class WikiElectionRefsParser(HTMLParser):
         attrs_dict = {k: v for k, v in attrs}
         href = attrs_dict.get('href', '')
         title = attrs_dict.get('title', '')
-        if self.elections_regex.search(href) or self.elections_regex.search(title):
+        if (
+            href.startswith('/wiki')
+            and (self.elections_regex.search(href) or self.elections_regex.search(title))
+            and 'United_States_presidential_election_in_' not in href
+            and 'List_of' not in href
+        ):
             self.elections.add(href)
 
     def dump(self):
@@ -45,9 +52,12 @@ parser = WikiElectionRefsParser()
 
 
 for year in trange(1900, 2021):
-    r = requests.get(WIKI_URL + f'wiki/List_of_elections_in_{year}')
     try:
+        start_time = time.time()
+        r = requests.get(WIKI_URL + f'wiki/List_of_elections_in_{year}')
         parser.feed(r.text)
+        duration = time.time() - start_time
+        time.sleep(max(0.5 - duration, 0))
     except Exception as e:
         print(e)
         pass

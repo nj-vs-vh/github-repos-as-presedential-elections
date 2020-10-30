@@ -1,0 +1,1258 @@
+Error while parsing https://en.wikipedia.org/wiki/1904_Argentine_presidential_election:
+	Unable to identify candidate or vote column among ['Argentine Republic', 'Argentine Republic']
+
+Error while parsing https://en.wikipedia.org/wiki/1910_Argentine_presidential_election:
+	Unable to identify candidate or vote column among ['Argentine Republic', 'Argentine Republic']
+
+Error while parsing https://en.wikipedia.org/wiki/1910_Chilean_presidential_election:
+	No rows found: <tbody>
+ <tr bgcolor="#ececec">
+  <th>
+   Candidate
+  </th>
+  <th>
+   Party/Coalition
+  </th>
+  <th>
+   Votes
+  </th>
+  <th>
+   %
+  </th>
+ </tr>
+ <tr align="center">
+  <th>
+   <a href="/wiki/Ram%C3%B3n_Barros_Luco" title="Ramón Barros Luco">
+    Ramón Barros Luco
+   </a>
+  </th>
+  <th>
+   <a href="/wiki/Liberal_Alliance_(Chile)" title="Liberal Alliance (Chile)">
+    Liberal Alliance
+   </a>
+   /
+   <a href="/wiki/Coalition_(Chile)" title="Coalition (Chile)">
+    Coalition
+   </a>
+  </th>
+  <th>
+   268
+  </th>
+  <th>
+   100%
+  </th>
+ </tr>
+ <tr align="center">
+  <th>
+   Total valid
+  </th>
+  <th>
+  </th>
+  <th>
+   268
+  </th>
+  <th>
+  </th>
+ </tr>
+</tbody>
+
+Error while parsing https://en.wikipedia.org/wiki/1915_Salvadoran_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/1916_Panamanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1918_Panamanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1919_German_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1920_Panamanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1921_Guatemalan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1922_Guatemalan_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/1923_Republic_of_China_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1923_Salvadoran_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/1925_German_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1926_Nicaraguan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1932_German_presidential_election:
+	Unable to identify candidate or vote column among ['1932  President of Germany, first round']
+
+Error while parsing https://en.wikipedia.org/wiki/1936_Honduran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1936_Nicaraguan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1937_Argentine_presidential_election:
+	Unable to identify candidate or vote column among ['Party/Electoral Alliance', 'Votes', 'Percentage', 'Electoral College']
+
+Error while parsing https://en.wikipedia.org/wiki/1938_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1939_Honduran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1941_Guatemalan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1944_Salvadoran_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/1945_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1945_Panamanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1947_French_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1947_Nicaraguan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1947_Polish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Supported by', 'For', 'For', 'Blank/invalid votes', 'Blank/invalid votes']
+
+Error while parsing https://en.wikipedia.org/wiki/1948_Republic_of_China_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1949_German_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1951_Austrian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1951_Israeli_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes']
+
+Error while parsing https://en.wikipedia.org/wiki/1952_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1952_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1953_French_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1957_Honduran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1958_French_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1959_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1960_Taiwan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1962_French_presidential_election_referendum:
+	Unable to identify candidate or vote column among ['Choice', 'Metropolitan France', 'Metropolitan France', 'Total', 'Total']
+
+Error while parsing https://en.wikipedia.org/wiki/1962_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1965_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/1965_Honduran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1965_Pakistani_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1966_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1966_Taiwan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1967_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1969_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/1969_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values (Initial Count)', 'Electoral Values (Runoff)']
+
+Error while parsing https://en.wikipedia.org/wiki/1972_Malagasy_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1972_Panamanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1972_Taiwan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1973_Equatorial_Guinean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1973_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1974_French_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1974_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1974_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1976_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1976_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/1977_Indian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1977_Zairean_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1978_Panamanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1978_Rwandan_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1978_Taiwan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1978_Upper_Voltan_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1979_Ghanaian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1980_Honduran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1980_Iranian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1980_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/1981_Djiboutian_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1981_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/1981_South_Korean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1982_Finnish_presidential_election:
+	Unable to identify candidate or vote column among ['Party', 'Votes', '%', 'Seats']
+
+Error while parsing https://en.wikipedia.org/wiki/1982_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1983_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1983_Rwandan_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1984_Comorian_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1984_Salvadoran_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1984_Seychellois_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1984_Taiwan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1984_Zairean_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1985_Brazilian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1985_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e', '1985 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/1985_Sierra_Leonean_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1986_Philippine_presidential_election:
+	Unable to identify candidate or vote column among ['Number of voters in the 1986 election', 'Number of voters in the 1986 election']
+
+Error while parsing https://en.wikipedia.org/wiki/1986_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1986_Somali_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1987_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1988_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/1988_Rwandan_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1989_Brazilian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Running-mate', 'Colligation', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1989_Equatorial_Guinean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1989_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e', '1989 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/1989_Salvadoran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1989_Seychellois_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/1990_Comorian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1990_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1990_Polish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1990_Taiwan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1991_Beninese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1991_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/1991_Transnistrian_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/1992_Austrian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1992_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Electoral Values']
+
+Error while parsing https://en.wikipedia.org/wiki/1992_Malian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1992_Republic_of_the_Congo_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1992_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1993_Guatemalan_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1993_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e', '1993 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/1993_Nigerian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1993_Nigerien_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1993_Singaporean_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Symbol', 'Results', 'Results', 'Results']
+
+Error while parsing https://en.wikipedia.org/wiki/1994_Belarusian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1994_Colombian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1994_Finnish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1994_Ukrainian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1995_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/1995_Polish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Beninese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Bulgarian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Chadian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Comorian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Malagasy_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Moldovan_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Russian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1996_Transnistrian_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/1997%E2%80%931998_Lithuanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1997_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['States', 'No. of MLA/MPs', 'Value of each Vote', 'K. R. Narayanan (Votes)', 'K. R. Narayanan (Values)', 'T. N. Seshan (Votes)', 'T. N. Seshan (Values)', 'Invalid (Votes)', 'Invalid (Values)']
+
+Error while parsing https://en.wikipedia.org/wiki/1997_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e', '1997 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/1997_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1997_Montenegrin_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1997_Serbian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1998_Armenian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1998_Colombian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1998_Cypriot_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1998_Indonesian_presidential_election:
+	Unable to identify candidate or vote column among ['Province', 'PPP', 'PPP', 'Golkar', 'Golkar', 'PDI', 'PDI']
+
+Error while parsing https://en.wikipedia.org/wiki/1999%E2%80%932000_Chilean_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party/coalition', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1999_German_presidential_election:
+	Election with first and second round
+
+Error while parsing https://en.wikipedia.org/wiki/1999_Nigerien_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1999_Salvadoran_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1999_Singaporean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/1999_Slovak_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/1999_Ukrainian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Croatian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Finnish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Ghanaian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Senegalese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Turkish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Position or political party', '1st round votes', '2nd round votes', '3rd round votes']
+
+Error while parsing https://en.wikipedia.org/wiki/2000_United_States_presidential_election:
+	Unable to identify candidate or vote column among []
+
+Error while parsing https://en.wikipedia.org/wiki/2000_Yugoslavian_presidential_election:
+	Unable to identify candidate or vote column among ['', '', '', 'Official results (28 September 2000) [22]', 'Official results (28 September 2000) [22]', 'Official results (10 October 2000) [4]', 'Official results (10 October 2000) [4]']
+
+Error while parsing https://en.wikipedia.org/wiki/2001_Beninese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2001_Bulgarian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2001_Cape_Verdean_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2001_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['Iranian presidential election, 2001 v t e', 'Iranian presidential election, 2001 v t e', 'Iranian presidential election, 2001 v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/2001_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/2002%E2%80%932003_Lithuanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2002_Albanian_presidential_election:
+	Unable to identify candidate or vote column among []
+
+Error while parsing https://en.wikipedia.org/wiki/2002_Comorian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2002_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2002_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['States', 'No. of MLA/MPs', 'Value of each Vote', 'Total (Votes)', 'Total (Values)', 'A. P. J. Abdul Kalam (Votes)', 'A. P. J. Abdul Kalam (Values)', 'Lakshmi Sahgal (Votes)', 'Lakshmi Sahgal (Values)', 'Invalid (Votes)', 'Invalid (Values)', 'Valid (Votes)', 'Valid (Values)']
+
+Error while parsing https://en.wikipedia.org/wiki/2002_Malian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2002_Slovenian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2003_Armenian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Georgian_presidential_election:
+	Unable to identify candidate or vote column among ['Summary of the 4 January 2004 Presidential election results', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_German_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Indonesian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Running mate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Lithuanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Macedonian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Nigerien_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Pakistani_presidential_election:
+	Unable to identify candidate or vote column among ['Legislature', 'Seats', 'Absent', 'Abstained', 'Against', 'For']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Philippine_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Slovak_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2004_United_States_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2005_Guinea-Bissau_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2005_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2005_Palestinian_presidential_election:
+	Unable to identify candidate or vote column among ['Summary of 2005 presidential election results', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/2005_Polish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2005_Singaporean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Beninese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Bulgarian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Colombian_presidential_election:
+	Unable to identify candidate or vote column among ['Parties - Candidates', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Comorian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'Anjouan primary', 'Anjouan primary', 'National election', 'National election']
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Fijian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Italian_presidential_election:
+	Unable to identify candidate or vote column among ['Name', 'Votes']
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Navajo_Nation_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/2006_Transnistrian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Albanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_East_Timorese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Ethiopian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'Party', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Indian_presidential_election:
+	Unable to identify candidate or vote column among ['', 'MPs', 'MLAs', 'Total']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Israeli_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Kiribati_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Latvian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Mauritanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Micronesian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Nauruan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Pakistani_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Slovenian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate and nominating party', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Syrian_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Turkish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2007_Vietnamese_presidential_election:
+	Unable to identify candidate or vote column among ['Alliance', 'Party', 'Votes', '%', 'Seats', '+/-']
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Anjouan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Bougainvillean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Cuban_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Cypriot_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates and nominating parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Czech_presidential_election:
+	Election with first and second round
+
+Error while parsing https://en.wikipedia.org/wiki/2008_French_Polynesian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Ghanaian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Icelandic_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Kosovan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Lebanese_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Maldivian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Marshall_Islands_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Mauritian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Nepalese_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Pakistani_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Palauan_presidential_election:
+	Unable to identify candidate or vote column among ['Palauan presidential election, 2008 [2] [4]', 'Palauan presidential election, 2008 [2] [4]', 'Palauan presidential election, 2008 [2] [4]', 'Palauan presidential election, 2008 [2] [4]', 'Palauan presidential election, 2008 [2] [4]', 'Palauan presidential election, 2008 [2] [4]']
+
+Error while parsing https://en.wikipedia.org/wiki/2008_South_African_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Trinidad_and_Tobago_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2008_Zimbabwean_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2009%E2%80%9310_Chilean_presidential_election:
+	Error while parsing candidate: <td></td>
+
+Error while parsing https://en.wikipedia.org/wiki/2009%E2%80%932010_Croatian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Afghan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Bangladeshi_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Guinea-Bissau_presidential_election:
+	Unable to identify candidate or vote column among []
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Indonesian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Iranian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Kurdistan_Region_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Popular votes', 'Percentage']
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Macedonian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Maltese_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Marshall_Islands_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Slovak_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates and nominating parties', '1 st round', '1 st round', '2 nd round', '2 nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Somali_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_South_African_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2009_Vanuatuan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2011_Cape_Verdean_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2011_Egyptian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2011_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2011_Laotian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2011_Nigerien_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2011_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Egyptian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Finnish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'Party', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Indian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Malian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Republic_of_China_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Senegalese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_Serbian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Nominating parties', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2012_South_Korean_presidential_election:
+	Unable to identify candidate or vote column among ['Dates', 'Races', 'Races', 'Moon', 'Moon', 'Sohn', 'Sohn', 'Kim', 'Kim', 'Chung', 'Chung', 'Total', 'Total']
+
+Error while parsing https://en.wikipedia.org/wiki/2013_Bangladeshi_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2013_Cypriot_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2013_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['2013 Iranian presidential election v t e', '2013 Iranian presidential election v t e', '2013 Iranian presidential election v t e', '2013 Iranian presidential election v t e', '2013 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/2013_Maldivian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'Annulled election', 'Annulled election', 'Re-run', 'Re-run', 'Re-run', 'Re-run']
+
+Error while parsing https://en.wikipedia.org/wiki/2013_Malian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2013_Pakistani_presidential_election:
+	No rows found: <tbody>
+ <tr>
+  <th colspan="2" style="background-color:#E9E9E9;text-align:left;vertical-align:top;">
+   Candidate
+  </th>
+  <th style="background-color:#E9E9E9;text-align:left;vertical-align:top;">
+   Main supporting party
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   <a href="/wiki/Senate_of_Pakistan" title="Senate of Pakistan">
+    Senate
+   </a>
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   <a href="/wiki/National_Assembly_of_Pakistan" title="National Assembly of Pakistan">
+    National Assembly
+   </a>
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   <a href="/wiki/Provincial_Assembly_of_the_Punjab" title="Provincial Assembly of the Punjab">
+    Punjab
+   </a>
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   <a href="/wiki/Provincial_Assembly_of_Sindh" title="Provincial Assembly of Sindh">
+    Sindh
+   </a>
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   <a href="/wiki/Provincial_Assembly_of_Balochistan" title="Provincial Assembly of Balochistan">
+    Balochistan
+   </a>
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   <a class="mw-redirect" href="/wiki/Provincial_Assembly_of_the_North-West_Frontier_Province" title="Provincial Assembly of the North-West Frontier Province">
+    KP
+   </a>
+  </th>
+  <th style="background-color:#E9E9E9;text-align:center;">
+   Total
+  </th>
+ </tr>
+ <tr>
+  <td style="background-color:#228b22;">
+  </td>
+  <td style="text-align:left;">
+   <a href="/wiki/Mamnoon_Hussain" title="Mamnoon Hussain">
+    Mamnoon Hussain
+   </a>
+  </td>
+  <td style="text-align:left;">
+   <a href="/wiki/Pakistan_Muslim_League_(N)" title="Pakistan Muslim League (N)">
+    Pakistan Muslim League (N)
+   </a>
+  </td>
+  <td colspan="2" style="text-align:right;">
+   277
+  </td>
+  <td style="text-align:right;">
+   54.14
+  </td>
+  <td style="text-align:right;">
+   24.76
+  </td>
+  <td style="text-align:right;">
+   55
+  </td>
+  <td style="text-align:right;">
+   21.49
+  </td>
+  <td style="text-align:right;">
+   432
+  </td>
+ </tr>
+ <tr>
+  <td style="background-color:#e51616;">
+  </td>
+  <td style="text-align:left;">
+   <a href="/wiki/Wajihuddin_Ahmed" title="Wajihuddin Ahmed">
+    Wajihuddin Ahmed
+   </a>
+  </td>
+  <td style="text-align:left;">
+   <a href="/wiki/Pakistan_Tehreek-e-Insaf" title="Pakistan Tehreek-e-Insaf">
+    Pakistan Tehreek-e-Insaf
+   </a>
+  </td>
+  <td colspan="2" style="text-align:right;">
+   34
+  </td>
+  <td style="text-align:right;">
+   4
+  </td>
+  <td style="text-align:right;">
+   1.9
+  </td>
+  <td style="text-align:right;">
+   1
+  </td>
+  <td style="text-align:right;">
+   36.17
+  </td>
+  <td style="text-align:right;">
+   77
+  </td>
+ </tr>
+ <tr>
+  <td colspan="10" style="text-align:left;">
+   Source:
+   <a class="external text" href="http://www.thenews.com.pk/article-111663-Mamnoon-Hussain-elected-12th-President-of-Pakistan" rel="nofollow">
+    The News
+   </a>
+  </td>
+ </tr>
+</tbody>
+
+Error while parsing https://en.wikipedia.org/wiki/2014%E2%80%9315_Croatian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014%E2%80%9315_Greek_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Afghan_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Nominating party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Colombian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates – Parties', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Comorian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'Grande Comore primary', 'Grande Comore primary', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Indonesian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Lithuanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Slovak_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2014_Tunisian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2015_Haitian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/2015_Italian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'First round 29 January 2015', 'Second round 30 January 2015', 'Third round 30 January 2015', 'Fourth round 31 January 2015']
+
+Error while parsing https://en.wikipedia.org/wiki/2015_Polish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2016_Austrian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round (annulled)', 'Second round (annulled)', 'Second round (re-run)', 'Second round (re-run)']
+
+Error while parsing https://en.wikipedia.org/wiki/2016_Beninese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2016_Bulgarian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2016_Gabonese_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2016_Moldovan_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2016_Portuguese_presidential_election:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Supporting parties', 'First round', 'First round']
+
+Error while parsing https://en.wikipedia.org/wiki/2016_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Albanian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2017_French_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'Party', '1st round', '1st round', '2nd round', '2nd round']
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Hungarian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Indian_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['2017 Iranian presidential election v t e', '2017 Iranian presidential election v t e', '2017 Iranian presidential election v t e', '2017 Iranian presidential election v t e', '2017 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Mongolian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Rwandan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Singaporean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Slovenian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2017_South_Korean_presidential_election:
+	Unable to identify candidate or vote column among []
+
+Error while parsing https://en.wikipedia.org/wiki/2017_Turkmen_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Colombian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party/alliance', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Cypriot_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Czech_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Georgian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Irish_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Malagasy_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Malian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2018_Trinidad_and_Tobago_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2019%E2%80%9320_Croatian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Afghan_presidential_election:
+	Error while parsing vote count ''
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Croatian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Guinea-Bissau_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Latvian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Lithuanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Maltese_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2019_North_Macedonian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Romanian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Slovak_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Tunisian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Greek_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Guinean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Ivorian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Moldovan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Northern_Cypriot_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Palauan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/2020_Polish_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/2020_United_States_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/April_1920_Guatemalan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Bougainvillean_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Brazilian_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Brazilian_presidential_election_debates,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Campaigning_for_the_2008_Zimbabwean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Colombian_presidential_election,_2010:
+	Unable to identify candidate or vote column among ['Candidates – Parties', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/Comorian_presidential_election,_2010:
+	Unable to identify candidate or vote column among ['Candidate', 'Mohéli primary', 'Mohéli primary', 'National election', 'National election']
+
+Error while parsing https://en.wikipedia.org/wiki/Croatian_presidential_election,_2009%E2%80%932010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/December_2002_Serbian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Fairness_of_the_2008_Russian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/February_2009_French_Polynesian_presidential_election:
+	Unable to identify candidate or vote column among ['French Polynesian presidential election, 2009', 'French Polynesian presidential election, 2009', 'French Polynesian presidential election, 2009', 'French Polynesian presidential election, 2009', 'French Polynesian presidential election, 2009', 'French Polynesian presidential election, 2009', 'French Polynesian presidential election, 2009']
+
+Error while parsing https://en.wikipedia.org/wiki/February_2016_Haitian_presidential_election:
+	Unable to identify candidate or vote column among ['Candidate', 'First round', 'First round', 'First round', 'Second round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/German_presidential_election,_2010:
+	Election with first and second round
+
+Error while parsing https://en.wikipedia.org/wiki/Greek_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Guatemalan_presidential_election,_17_December_1930:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Guatemalan_presidential_election,_29_December_1930:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Guinean_presidential_election,_2010:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/International_reaction_to_the_2008_Zimbabwean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/International_reaction_to_the_2009_Iranian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Ivorian_presidential_election,_2010:
+	Unable to identify candidate or vote column among ['Candidate', 'Party', 'First round', 'First round', 'Second round (CC)', 'Second round (CC)', 'Second round (IEC)', 'Second round (IEC)']
+
+Error while parsing https://en.wikipedia.org/wiki/July_1944_Guatemalan_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/July_1968_Dahomeyan_presidential_election:
+	Unable to identify candidate or vote column among ['Choice', 'Votes', '%']
+
+Error while parsing https://en.wikipedia.org/wiki/July_1981_Iranian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Moldovan_presidential_election,_May%E2%80%93June_2009:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/Moldovan_presidential_election,_November%E2%80%93December_2009:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Nauruan_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Navajo_Nation_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/November_2009_French_Polynesian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/October_1981_Iranian_presidential_election:
+	Unable to identify candidate or vote column among ['October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e', 'October 1981 Iranian presidential election v t e']
+
+Error while parsing https://en.wikipedia.org/wiki/Opinion_polling_for_the_2010_Philippine_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Opinion_polling_in_the_Brazilian_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Polish_presidential_election,_2010:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/Results_of_the_2009_Iranian_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Second_round_of_voting_in_the_2008_Zimbabwean_presidential_election:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Serbian_presidential_election,_September%E2%80%93October_2002:
+	Unable to identify candidate or vote column among ['Candidate', 'Candidate', 'Party', 'First round', 'First round', 'Second round', 'Second round']
+
+Error while parsing https://en.wikipedia.org/wiki/Sri_Lankan_presidential_election,_2010:
+	Unable to identify candidate or vote column among []
+
+Error while parsing https://en.wikipedia.org/wiki/Stance_of_Marjas_on_the_2009_Presidential_Election_in_Iran:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Surinamese_presidential_election,_2010:
+	Results table not found
+
+Error while parsing https://en.wikipedia.org/wiki/Ukrainian_presidential_election,_2010:
+	Unable to identify candidate or vote column among ['Candidates', 'Candidates', 'Nominating Party', 'First round [241]', 'First round [241]', 'Second round [242]', 'Second round [242]']
+
+Error while parsing https://en.wikipedia.org/wiki/Vote_counting_for_the_2008_Zimbabwean_presidential_election:
+	Results table not found
+
