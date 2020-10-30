@@ -28,7 +28,8 @@ with open(popular_repos_filename, 'r') as f:
 #       Specific areas like 'machine learning', 'NLP', 'web', 'system'
 
 # query_words = ['the', 'of', 'and', 'to', 'a', 'in', 'that']
-query_words = ['framework', 'library', 'package', 'module', 'pipeline']
+# query_words = ['framework', 'library', 'package', 'module', 'pipeline']
+query_words = ['machine learning', 'NLP', 'web', 'system', 'multiplatform', 'development', 'code']
 
 
 min_allowed_query_period = 3  # sec, tecnically as less as 2 is ok with auth, but we play safe

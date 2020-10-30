@@ -29,7 +29,7 @@ def find_election_by_country_and_year(country, year):
 def find_closest_repo(election, trim_to_size=None):
     election_results = sorted_dict(election['results'])
     if trim_to_size:
-        election_results = trim_distribution_dict(election_results, size=trim_to_size, others_key='Others candidates')
+        election_results = trim_distribution_dict(election_results, size=trim_to_size, others_key='Other candidates')
 
     election_size = len(election_results)
 
@@ -39,7 +39,7 @@ def find_closest_repo(election, trim_to_size=None):
             continue
         langs = sorted_dict(langs)
         langs = trim_distribution_dict(langs, size=election_size, others_key='Others')
-        distance = dict_to_dict_distance(election_results, langs, 'L2')
+        distance = dict_to_dict_distance(election_results, langs, 'Linf')
         if distance < closest_distance:
             closest_distance = distance
             closest_repo = repo
@@ -51,7 +51,7 @@ def find_closest_repo(election, trim_to_size=None):
     return election_trimmed, repo_trimmed
 
 
-el = find_election_by_country_and_year('Russia', 2018)
+el = find_election_by_country_and_year('Russia', 1991)
 if not el:
     print('Not found :(')
     exit()

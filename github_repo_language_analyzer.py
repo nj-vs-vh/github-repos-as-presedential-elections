@@ -51,7 +51,7 @@ try:
                 continue
             owner, repo = repo_id.split('/')
             languages_dict = get_repo_languages(owner, repo)
-            if languages_dict is not None:
+            if languages_dict:
                 languages_by_repo[repo_id] = languages_dict
 finally:
     with open(languages_in_repos_filename, 'w') as lang_file:

@@ -1,15 +1,15 @@
 - country: Russia
   results:
-    Vladimir Putin: 0.775277768641623
-    Pavel Grudinin: 0.11896518168844218
-    Vladimir Zhirinovsky: 0.05708358773746137
-    Ksenia Sobchak: 0.017008786123222354
-    Others candidates: 0.03166467580925114
-  year: '2018'
+    Boris Yeltsin: 0.5972854167990175
+    Nikolai Ryzhkov: 0.1756417072209227
+    Vladimir Zhirinovsky: 0.08143968575934095
+    Aman Tuleyev: 0.07103462703753873
+    Other candidates: 0.07459856318318014
+  year: '1991'
 - languages:
-    Scala: 0.7804001450050925
-    Java: 0.11205441143468729
-    HTML: 0.0609021388251135
-    Ruby: 0.014286454107614494
-    Others: 0.03235685062749216
-  repo: jaliss/securesocial
+    C: 0.6111246022468887
+    Shell: 0.17744598352643914
+    PowerShell: 0.09294954106778638
+    C++: 0.053212978314490664
+    Others: 0.06526689484439507
+  repo: pmem/pmdk
