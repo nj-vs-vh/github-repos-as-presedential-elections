@@ -61172,6 +61172,9 @@ toly1994328/FlutterUnit:
   Objective-C: 3.1396396024224796e-05
   Ruby: 0.0011187031636000098
   Swift: 0.00033379326299438997
+tomaka/redshirt:
+  Dockerfile: 0.0005633107052936864
+  Rust: 0.9994366892947063
 tomasbjerre/jenkins-configuration-as-code-sandbox:
   Dockerfile: 0.017377687812702897
   Groovy: 0.7870373906733377
@@ -61196,10 +61199,20 @@ tomaz/appledoc:
 tombenner/nui:
   Objective-C: 0.9912126537785588
   Ruby: 0.008787346221441126
+tomgoldstein/loss-landscape:
+  Python: 0.910396340171978
+  Shell: 0.08960365982802197
 tomhodgins/element-queries-spec:
   CSS: 0.0021399238970726746
   HTML: 0.822604829898655
   JavaScript: 0.17525524620427232
+tomjoht/documentation-theme-jekyll:
+  CSS: 0.26033775252525254
+  Dockerfile: 0.0017124368686868687
+  HTML: 0.6227588383838384
+  JavaScript: 0.03972537878787879
+  Ruby: 0.054245580808080805
+  Shell: 0.021220012626262625
 tomkra/font_awesome5_rails:
   CSS: 0.006273447594140631
   HTML: 0.04322140755615748
@@ -61210,6 +61223,32 @@ toml-lang/toml:
   Python: 1.0
 tommoor/tinycon:
   JavaScript: 1.0
+tomoya0x00/statek:
+  Kotlin: 1.0
+tomoya92/pybbs:
+  CSS: 0.005234563722450448
+  Dockerfile: 5.288773652387419e-05
+  FreeMarker: 0.35021201371379007
+  Java: 0.637529931153389
+  JavaScript: 0.00027633842333724264
+  SCSS: 0.0064774255307614905
+  Shell: 0.00021683971974788415
+tomprimozic/type-systems:
+  OCaml: 0.9978137838160339
+  Shell: 0.0021862161839660433
+tomwhite/hadoop-book:
+  C: 0.000191566542914834
+  C++: 0.00029878834739310053
+  Java: 0.11427348677451393
+  Makefile: 0.8631119557395786
+  Perl: 0.0033761003522143843
+  PigLatin: 0.0009816341065165437
+  Python: 0.0017758611366712898
+  R: 3.212032504844623e-05
+  Ruby: 0.0001171583079105197
+  Scala: 0.004333239822363048
+  Shell: 0.010891101006174958
+  XSLT: 0.0006169875387003701
 tomzaku/react-native-shimmer-placeholder:
   JavaScript: 1.0
 tomzo/gocd-yaml-config-plugin:
@@ -61224,15 +61263,33 @@ toniblyx/prowler:
   Dockerfile: 0.0007930992809233186
   Python: 0.015588177533385704
   Shell: 0.983618723185691
+tonik/theme:
+  CSS: 0.03299213446826851
+  JavaScript: 0.2176705096433574
+  PHP: 0.7493373558883741
 tonsky/AnyBar:
   AppleScript: 0.0018035851754096557
   Makefile: 0.0029011327394699218
   Objective-C: 0.9952952820851204
+tonsky/FiraCode:
+  CSS: 0.029764365440264572
+  Clojure: 0.5150453645482039
+  Dockerfile: 0.008224364134809948
+  HTML: 0.0892713387437175
+  Makefile: 0.0025891516720697983
+  PureBasic: 0.012967515937425208
+  Python: 0.1439698875133265
+  Shell: 0.19816801201018255
+tony/tmux-config:
+  Shell: 1.0
 tonybaloney/pytest-azurepipelines:
   CSS: 0.33003257328990226
   Dockerfile: 0.008686210640608035
   Python: 0.5716395222584147
   Shell: 0.08964169381107492
+tonybeltramelli/pix2code:
+  Python: 0.9666920573367496
+  Shell: 0.03330794266325047
 tonyfischetti/qstats:
   C: 0.9669148571606592
   Makefile: 0.03308514283934079
@@ -61260,6 +61317,11 @@ topepo/caret:
   HTML: 0.18399902660911935
   R: 0.8065125061185899
   TeX: 0.005726581387947448
+topepo/rstudio-conf-2019:
+  CSS: 0.007165980984009344
+  HTML: 0.9129453185963964
+  JavaScript: 0.07402547988636479
+  R: 0.005863220533229474
 tophubs/TopList:
   Go: 0.9997867172225843
   Shell: 0.00021328277741572367
@@ -61275,11 +61337,34 @@ topojson/topojson:
   JavaScript: 1.0
 toptal/chewy:
   Ruby: 1.0
+toptal/webdevchecklist.com:
+  CSS: 0.3361640878013674
+  HTML: 0.5445663907880532
+  JavaScript: 0.11926952141057935
+torch/DEPRECEATED-torch7-distro:
+  C: 0.6178431222282222
+  C++: 0.13180201732132715
+  CSS: 0.00477901724193297
+  JavaScript: 0.0005963428638523828
+  Lua: 0.24051530170082816
+  Objective-C: 0.00031718269269981374
+  Ruby: 0.00030930237735323456
+  Shell: 0.0038377135737840823
 torch/torch7:
   C: 0.6501106112746056
   C++: 0.005224151980228024
   CMake: 0.051774326062507994
   Lua: 0.29289091068265843
+torch/tutorials:
+  Jupyter Notebook: 0.958642590845798
+  Lua: 0.04135740915420204
+torfsen/python-systemd-tutorial:
+  Python: 1.0
+torlenor/redseligg:
+  Batchfile: 0.0003207379408624197
+  Dockerfile: 0.0013255814897668357
+  Go: 0.9893547483425157
+  Makefile: 0.008998932226855104
 tornadoweb/tornado:
   C: 0.0009836941718056726
   HTML: 1.613671541675972e-05
@@ -61287,16 +61372,63 @@ tornadoweb/tornado:
   Shell: 0.002627057269848483
 torokmark/design_patterns_in_typescript:
   TypeScript: 1.0
+torrvision/crfasrnn:
+  MATLAB: 0.5666108894323594
+  Python: 0.4255373921997683
+  Shell: 0.007851718367872313
+totalgood/nlpia:
+  Batchfile: 9.21741636852919e-06
+  Dockerfile: 1.9813137988427232e-05
+  HTML: 0.8750110587460402
+  Jupyter Notebook: 0.060080498195324634
+  Python: 0.061854118621601714
+  Shell: 0.0029150294625669092
+  TSQL: 0.00011026442010950808
 totaljs/framework:
   CSS: 2.1558637206680042e-05
   HTML: 0.006624381250779868
   JavaScript: 0.9930365601822424
   Shell: 0.0003174999297711061
+touchlab-lab/KMPLibraryTemplate:
+  Kotlin: 1.0
+touchlab-lab/KotlinMultiplatformStarter:
+  Kotlin: 0.11880789367700363
+  Ruby: 0.35662505034232783
+  Swift: 0.5245670559806686
+touchlab/KMMWorker:
+  Kotlin: 1.0
+touchlab/KaMPKit:
+  Kotlin: 0.8207973985578962
+  Ruby: 0.04041778594655733
+  Swift: 0.13878481549554644
+touchlab/Kermit:
+  HTML: 0.011677114863217089
+  Kotlin: 0.818560013771536
+  Ruby: 0.031115064051987548
+  Swift: 0.1386478073132594
+touchlab/SQLiter:
+  C: 0.007289286828813487
+  C++: 0.14899502617901902
+  CMake: 0.034743545783424964
+  Kotlin: 0.7386374581501701
+  Makefile: 0.05568290831756942
+  Shell: 0.0013484410095585203
+  Swift: 0.013303333731444489
+touchlab/Stately:
+  JavaScript: 0.0009375052316140157
+  Kotlin: 0.991350398160704
+  Swift: 0.007712096607681963
+touchlab/TestHelp:
+  Kotlin: 1.0
 touchstonejs/touchstonejs:
   CSS: 0.622534892583242
   HTML: 0.010563044824465299
   JavaScript: 0.3669020625922927
 toutiaoio/awesome-architecture: {}
+tox-dev/tox:
+  Python: 1.0
+toxtli/awesome-machine-learning-jupyter-notebooks-for-colab:
+  Jupyter Notebook: 1.0
 tpaviot/pythonocc-core:
   Batchfile: 2.482453014719723e-05
   C: 4.518784038388366e-05
@@ -61324,6 +61456,11 @@ tporadowski/redis:
   Shell: 0.0032522238365773493
   Smarty: 0.0002157434174045799
   Tcl: 0.139222915701196
+tqchen/tinyflow:
+  C: 0.008995875103979967
+  C++: 0.7253728271402722
+  Makefile: 0.019578248677203303
+  Python: 0.24605304907854453
 tqdm/tqdm:
   Dockerfile: 0.00048498481075178596
   Jupyter Notebook: 0.16412719098582831
@@ -61331,8 +61468,17 @@ tqdm/tqdm:
   Python: 0.7956607248588933
   Roff: 0.022960906653813083
   Shell: 0.0027670912515285946
+traccar/traccar:
+  Inno Setup: 0.00013173162624093994
+  Java: 0.9863470488803321
+  Python: 0.008818374956620292
+  Shell: 0.0047028445368066316
 tradle/rn-nodeify:
   JavaScript: 1.0
+tradytics/surpriver:
+  Batchfile: 0.0015279325163138628
+  Python: 0.9974852777335668
+  Shell: 0.0009867897501193697
 traefik/traefik:
   Dockerfile: 0.001116835495321163
   Go: 0.9038899430065552
@@ -61353,6 +61499,22 @@ trailofbits/algo:
   Shell: 0.11759057995172625
 trailsjs/trails:
   JavaScript: 1.0
+trainindata/deploying-machine-learning-models:
+  Dockerfile: 0.00845206905214801
+  Makefile: 0.01114381078850088
+  Python: 0.9420019380540502
+  Shell: 0.038402182105300935
+transcendent-ai-labs/DynaML:
+  CSS: 0.0001479471216065563
+  Dockerfile: 7.372449157498428e-05
+  Java: 0.010713463785832345
+  JavaScript: 0.008438963593052762
+  Jupyter Notebook: 0.0837081825219156
+  R: 5.927847633394007e-05
+  Ruby: 1.5442292154219683e-05
+  Scala: 0.892765734450359
+  Shell: 0.001674243352591366
+  TeX: 0.0024030199145792176
 transcranial/keras-js:
   GLSL: 0.021515059506557913
   HTML: 0.010891517267712805
@@ -61383,11 +61545,38 @@ transloadit/uppy:
   SCSS: 0.06610594838281407
   Shell: 0.008494998362616909
   TypeScript: 0.008845747430749224
+transmission-remote-gui/transgui:
+  Batchfile: 0.0020884670597272766
+  C++: 0.0003761109581835476
+  Emacs Lisp: 0.008055237695506642
+  Inno Setup: 0.019057845943238394
+  JavaScript: 0.006205052112392545
+  Makefile: 0.02726882316594319
+  NewLisp: 0.005927446405161831
+  PHP: 0.02502344853256377
+  Pascal: 0.8770553237415954
+  Perl: 0.006027898400204641
+  Ruby: 0.008509997114925259
+  Shell: 0.0030069409213784037
+  Smalltalk: 0.005460227823567362
+  SystemVerilog: 0.005937180125611716
+travisjeffery/ClangFormat-Xcode:
+  Objective-C: 1.0
 travisjeffery/jocko:
   Dockerfile: 0.0013316926442439158
   Go: 0.9962264150943396
   Makefile: 0.0016926442439157779
   Shell: 0.0007492480175006836
+travisjeffery/timecop:
+  Dockerfile: 0.0029969333705046
+  Makefile: 0.005349177585726233
+  Ruby: 0.9916538890437692
+travispdev/HowKotlinMetFlutter:
+  Dart: 0.44514102002045886
+  Kotlin: 0.43868186467923426
+  Objective-C: 0.0010813970480783282
+  Ruby: 0.009878708168931756
+  Swift: 0.1052170100832968
 travist/jsencrypt:
   CSS: 0.004999140995181561
   HTML: 0.010782513332377895
@@ -61395,6 +61584,32 @@ travist/jsencrypt:
   Ruby: 0.005837672123646845
   Shell: 0.00017447144498853028
   TypeScript: 0.10668127716658374
+treasure-data/digdag:
+  Batchfile: 0.00030390813889949323
+  CSS: 0.0008260911874125142
+  Dockerfile: 5.838629269497653e-05
+  HTML: 0.000727283615159477
+  Java: 0.9563177711407035
+  JavaScript: 0.030199785916926784
+  Makefile: 0.000293428547902959
+  Python: 0.004755039560456012
+  Ruby: 0.002584267139745346
+  Scala: 0.0001541996960918611
+  Shell: 0.0031783102408060302
+  TSQL: 0.000601528523201066
+tree-sitter/tree-sitter:
+  Batchfile: 0.0009649599732496772
+  C: 0.26187144310882987
+  C++: 0.011388634008980842
+  HTML: 0.0025980197915528485
+  JavaScript: 0.06130589494442594
+  Makefile: 0.001525768907225615
+  Python: 0.0007187832815747936
+  RenderScript: 0.00035807518789073966
+  Rust: 0.6481661152923118
+  Shell: 0.011102305503957915
+treehopper-electronics/HIDSharp:
+  C#: 1.0
 trekhleb/homemade-machine-learning:
   Jupyter Notebook: 0.9941329097559595
   Python: 0.005867090244040535
@@ -61402,15 +61617,32 @@ trekhleb/javascript-algorithms:
   JavaScript: 1.0
 trekhleb/learn-python:
   Python: 1.0
+trekhleb/machine-learning-experiments:
+  Jupyter Notebook: 1.0
+trekhleb/machine-learning-octave:
+  MATLAB: 1.0
 trekhleb/nano-neuron:
   JavaScript: 1.0
+trelby/trelby:
+  Batchfile: 0.0002558435932369394
+  Makefile: 0.0010343615211235772
+  NSIS: 0.01120061276894969
+  Python: 0.9874008802275281
+  Shell: 0.00010830188916164921
 trentm/node-bunyan:
   JavaScript: 0.7918767438445348
   Makefile: 0.016239169807626415
   Perl: 0.10175485828968624
   Python: 0.09012922805815263
+treschautomation/smartopenHMI:
+  Python: 1.0
 triceam/app-UI:
   JavaScript: 1.0
+tricktux/rnvim:
+  C++: 0.4657745633655727
+  CMake: 0.44844947042732114
+  Python: 0.06847425396107894
+  Shell: 0.01730171224602723
 trimstray/nginx-admins-handbook:
   CSS: 0.011022897872513085
   GDB: 0.004125133559652137
@@ -61440,12 +61672,26 @@ trizen/trizen:
   Perl: 0.9182840109515311
   Roff: 0.05855144509750787
   Shell: 0.023164543950961063
+troessner/reek:
+  Dockerfile: 0.0010746787768852878
+  Gherkin: 0.15594728863429497
+  HTML: 0.004051213328622115
+  Ruby: 0.8389268192601976
 trojan-gfw/trojan:
   C++: 0.926633145369786
   CMake: 0.04042234119794529
   Dockerfile: 0.0037524852580936288
   Python: 0.012383879920471741
   Shell: 0.01680814825370329
+tromp/cuckoo:
+  C: 0.05090710792649318
+  C++: 0.5166950076813923
+  Cuda: 0.3880275826482626
+  Java: 0.012735865651862884
+  Makefile: 0.02755919362972171
+  Perl: 0.0029646655955717655
+  PostScript: 0.0004233561234182782
+  Raku: 0.0006872207432773159
 tropicalmentat/land-cover-to-land-use-classification:
   Jupyter Notebook: 0.02641868467012486
   Python: 0.9735813153298751
@@ -61457,12 +61703,27 @@ trueai-org/module-shop:
   C#: 0.9977589916237313
   Dockerfile: 0.0014982422855867419
   Shell: 0.0007427660906819436
+trufflesuite/ganache:
+  CSS: 0.0045089629385241395
+  JavaScript: 0.8865842015756665
+  SCSS: 0.10513900643431721
+  Shell: 0.00376782905149207
+trufflesuite/ganache-cli:
+  Dockerfile: 0.03557187827911857
+  JavaScript: 0.9644281217208814
 trufflesuite/truffle:
   JavaScript: 0.5725805915641792
   Python: 3.987625070198816e-05
   Shell: 0.0035323712080177847
   Solidity: 0.07241111749869572
   TypeScript: 0.35143604347840535
+trulia/hologram:
+  HTML: 0.02135800673521218
+  Ruby: 0.9786419932647878
+trungtv/pyvi:
+  Jupyter Notebook: 0.5789079298885775
+  Python: 0.42001694142177626
+  Shell: 0.0010751286896461848
 trustedsec/ptf:
   Dockerfile: 0.0007538423789491733
   Python: 0.9746768085565545
@@ -61481,6 +61742,10 @@ tryexceptpass/sofi:
   HTML: 0.0026193544520034767
   JavaScript: 0.030227470255042407
   Python: 0.9671531752929541
+ts-way/PassiveNetwork:
+  C: 0.016506338263233052
+  C++: 0.9821459494595347
+  Prolog: 0.0013477122772321956
 tsayen/dom-to-image:
   CSS: 0.0596342641475524
   HTML: 0.028643317682474783
@@ -61509,6 +61774,21 @@ tsileo/bakthat:
   CSS: 0.01131442938957955
   Python: 0.9378205256121166
   Shell: 0.050865044998303834
+tsl0922/ttyd:
+  C: 0.9533976441662381
+  CMake: 0.004374223816751759
+  Dockerfile: 0.000511810529748987
+  HTML: 0.0007652069194776522
+  JavaScript: 0.005619880326655544
+  SCSS: 0.0020384610559855488
+  Shell: 0.007826436017411594
+  TypeScript: 0.02546633716773085
+tslamic/learn-kotlin-native:
+  CSS: 0.6362709704820556
+  HTML: 0.2674028456147802
+  Ruby: 0.09632618390316415
+tslearn-team/tslearn:
+  Python: 1.0
 tsurupin/portfolio:
   CSS: 0.12275869761149619
   HTML: 0.010777680433050114
@@ -61522,6 +61802,9 @@ tttapa/ESP8266:
 tu-darmstadt-ros-pkg/hector_slam:
   C++: 0.8307375433039046
   CMake: 0.1692624566960954
+tualatrix/ubuntu-tweak:
+  Python: 0.9777898010467898
+  Shell: 0.02221019895321019
 tudou527/marketch:
   JavaScript: 1.0
 tugrul512bit/Cekirdekler:
@@ -61539,6 +61822,13 @@ tunjid/Android-Extensions:
   Kotlin: 0.8313198164314252
 tunnckoCore/opensource:
   JavaScript: 1.0
+turbobutton/tbutt-vr:
+  C#: 0.9963633965499373
+  ShaderLab: 0.003636603450062651
+turbolinks/turbolinks:
+  HTML: 0.09348568036800713
+  JavaScript: 0.014861826109785748
+  TypeScript: 0.8916524935222071
 turbolinks/turbolinks-classic:
   CoffeeScript: 0.5620027580354301
   HTML: 0.11094824344002237
@@ -61554,6 +61844,32 @@ turbulenz/turbulenz_engine:
   Python: 0.014189282636136563
   Shell: 0.0010735218441777425
   TypeScript: 0.9096211050104563
+turi-code/SFrame:
+  C: 0.009876096587895754
+  C++: 0.8066293009888671
+  CMake: 0.007250545340280451
+  CSS: 0.00877463773182662
+  HTML: 0.0016863195521314355
+  JavaScript: 0.0014446370105099433
+  Makefile: 0.0006642469854628434
+  Perl: 0.0006676324756113435
+  Python: 0.1537518969108577
+  R: 3.710220836213303e-05
+  Scala: 0.0003614874378969833
+  Shell: 0.003671874978408864
+  Smarty: 6.674252007042925e-05
+  XSLT: 0.005117479271818379
+turi-code/userguide:
+  CSS: 0.026223366892999297
+  GCC Machine Description: 5.853430110044486e-05
+  HTML: 0.040622804963708736
+  JavaScript: 0.9264809178178413
+  Makefile: 0.006614376024350269
+turretcss/turretcss:
+  CSS: 0.9977866876796143
+  JavaScript: 0.0022133123203856493
+tushushu/imylu:
+  Python: 1.0
 tutao/tutanota:
   C: 0.10753910109654748
   C++: 0.013469353981667919
@@ -61595,6 +61911,15 @@ twigphp/Twig:
   PHP: 0.9967845410827009
   Shell: 0.0021020193802840106
   Twig: 0.0007452965224644471
+twilio/OpenVBX:
+  ApacheConf: 0.0005710504036741343
+  CSS: 0.07354384640007233
+  HTML: 0.001233508759042324
+  JavaScript: 0.13116210086717892
+  Makefile: 0.0005185323805190044
+  Nginx: 0.0002336719637851667
+  PHP: 0.7926402306006566
+  Shell: 9.705862507150595e-05
 twilio/twilio-python:
   Dockerfile: 1.8232159252536272e-05
   Makefile: 0.0002193128520492947
@@ -61629,9 +61954,27 @@ twitter-archive/gizzard:
   Scala: 0.9834550159197376
   Shell: 0.0001250492982810531
   Thrift: 0.01641993478198136
+twitter-archive/kestrel:
+  Ruby: 0.06158824353553751
+  Scala: 0.9136555472601964
+  Shell: 0.01685471968616673
+  Thrift: 0.007901489518099344
 twitter-archive/twui:
   C: 0.014368542873785218
   Objective-C: 0.9856314571262148
+twitter/activerecord-reputation-system:
+  Ruby: 1.0
+twitter/d3kit:
+  JavaScript: 1.0
+twitter/distributedlog:
+  CSS: 0.0034114319854589735
+  Dockerfile: 0.0005956869536220571
+  HTML: 0.002237994369015184
+  Java: 0.9721012364672581
+  Python: 0.005311163067408875
+  Ruby: 0.0005340467429843209
+  Shell: 0.013512342567996858
+  Thrift: 0.002296097846255673
 twitter/finagle:
   HTML: 0.0009095085840732858
   Java: 0.033341118567698724
@@ -61667,6 +62010,14 @@ twitter/ios-twitter-image-pipeline:
   Ruby: 0.00027885303778858294
   Shell: 0.11786499220647202
   Swift: 0.003958854671831861
+twitter/recess:
+  CSS: 0.6299957259040315
+  JavaScript: 0.36931199094614037
+  Makefile: 0.0006922831498281332
+twitter/rezolus:
+  C: 0.09779730589119501
+  Rust: 0.8858222042358019
+  Shell: 0.016380489873003026
 twitter/scala_school:
   CSS: 0.006564211740181403
   HTML: 0.4105293504535072
@@ -61687,16 +62038,32 @@ twitter/typeahead.js:
   HTML: 0.025391768437963758
   JavaScript: 0.9736370361293778
   Shell: 0.0009711954326584887
+twitter/util:
+  HTML: 0.0012550451269303208
+  Java: 0.06214727950389394
+  Makefile: 0.00016533528618243746
+  Mako: 0.0014466837540963277
+  Scala: 0.9132724571036347
+  Shell: 0.0007515240281019885
+  Starlark: 0.020961675197160242
 twobin/react-lazyload:
   JavaScript: 1.0
+twostraws/HackingWithSwift:
+  JavaScript: 0.0004902445759310586
+  Swift: 0.999509755424069
 twowaits/SDE-Interview-Questions:
   Java: 1.0
 twpayne/go-geom:
   Go: 0.9984033350703492
   Makefile: 0.0015966649296508598
+txn2/kubefwd:
+  Dockerfile: 0.0018059211158287065
+  Go: 0.9981940788841713
 txthinking/brook:
   Go: 0.9813116129483325
   Shell: 0.018688387051667484
+txusballesteros/bubbles-for-android:
+  Java: 1.0
 tycrek/degoogle:
   JavaScript: 1.0
 tyiannak/pyAudioAnalysis:
@@ -61713,6 +62080,10 @@ tylermorganwall/rayshader:
   R: 0.7705162756288311
 tylerstillwater/graceful:
   Go: 1.0
+tylertreat/comcast:
+  Go: 1.0
+tymondesigns/jwt-auth:
+  PHP: 1.0
 typecho/typecho:
   CSS: 0.03078804553414415
   Dockerfile: 0.0016958128737846522
@@ -61720,11 +62091,24 @@ typecho/typecho:
   Makefile: 0.000947551589432447
   PHP: 0.6307192165676674
   SCSS: 0.017735453191689593
+typekit/webfontloader:
+  CSS: 0.0004843693994788185
+  HTML: 0.20694198223333043
+  JavaScript: 0.696271324362812
+  Ruby: 0.0963023240043787
 typelevel/cats:
   Awk: 0.0006446230051574056
   Nix: 0.000322943899248249
   Scala: 0.9981964046984543
   Shell: 0.0008360283971400493
+typelevel/cats-effect:
+  CSS: 0.0006127091368782822
+  HTML: 0.0002640987658958113
+  Java: 0.0033170804996513897
+  JavaScript: 0.004939233808398106
+  Nix: 0.0006244468598069849
+  Ruby: 0.003099932625470389
+  Scala: 0.987142498303899
 typelift/Swiftz:
   C: 0.000487576254658432
   Ruby: 0.0030048304066159185
@@ -61759,14 +62143,30 @@ typicode/json-server:
   JavaScript: 0.9601726348566718
 typicode/lowdb:
   JavaScript: 1.0
+typicode/tlapse:
+  JavaScript: 1.0
 tyroprogrammer/learn-react-app:
   CSS: 0.012860793922483528
   HTML: 0.01866397805341274
   JavaScript: 0.9684752280241037
+tzapu/WiFiManager:
+  C: 0.05613763949180663
+  C++: 0.761721857314939
+  HTML: 0.1092979385895134
+  JavaScript: 0.03940998659060433
+  Shell: 0.03343257801313666
 tzutalin/labelImg:
   Makefile: 0.0034791917569918372
   Python: 0.9637963334671484
   Shell: 0.03272447477585976
+u-root/u-root:
+  Assembly: 0.0013141505014858561
+  C: 0.00015011690542283515
+  Dockerfile: 0.002902427525917759
+  Go: 0.994044023916284
+  Makefile: 4.64408486675995e-05
+  Python: 0.0013038582052946584
+  Shell: 0.00023898209692732283
 uBlock-LLC/uBlock:
   CSS: 0.028769868146047744
   HTML: 0.02453962491709586
@@ -61778,17 +62178,50 @@ uNetworking/uWebSockets:
   C++: 0.9052123213972925
   Makefile: 0.01464688169890482
   QMake: 0.0032474483341535364
+uNetworking/uWebSockets.js:
+  C: 0.04249712086156272
+  C++: 0.945405310065053
+  JavaScript: 0.011267547181556913
+  Makefile: 0.000830021891827397
 uPhyca/stetho-realm:
   Java: 1.0
+uber-archive/chaperone:
+  Java: 0.7408315060836665
+  Scala: 0.24696751327676805
+  Shell: 0.012200980639565423
+uber-archive/cherami-server:
+  Dockerfile: 0.0011775720435775786
+  Go: 0.9964016649095062
+  Makefile: 0.0013730561412756985
+  Shell: 0.001047706905640485
 uber-archive/go-torch:
   Dockerfile: 0.011610841133687747
   Go: 0.9794690323211898
   Shell: 0.008920126545122468
+uber-archive/plato-research-dialogue-system:
+  CSS: 0.06340302624059739
+  HTML: 0.19217646570667718
+  JavaScript: 0.057481299365996726
+  Less: 0.11912946499353312
+  Python: 0.43786504777795243
+  SCSS: 0.12986170942719757
+  Shell: 8.298648804556026e-05
 uber-go/guide: {}
 uber-go/zap:
   Go: 0.9960602617098794
   Makefile: 0.0034017526620224235
   Shell: 0.0005379856280982208
+uber-research/PPLM:
+  Jupyter Notebook: 0.2224375734082901
+  Python: 0.7771224313916576
+  Shell: 0.00043999520005236307
+uber-research/atari-model-zoo:
+  Jupyter Notebook: 0.9956654782629982
+  Python: 0.004334521737001739
+uber/NullAway:
+  Java: 0.9942304737158264
+  Python: 0.003429585236718215
+  Shell: 0.0023399410474554015
 uber/RIBs:
   Java: 0.5915181840020596
   Objective-C: 0.0007790614319608517
@@ -61807,6 +62240,15 @@ uber/cadence:
   Go: 0.9972897011876315
   Makefile: 0.0013233602497363733
   Shell: 0.0009967254792987493
+uber/causalml:
+  Python: 1.0
+uber/h3:
+  C: 0.9173288449303689
+  C++: 0.01736288134789958
+  CMake: 0.044907965239770045
+  JavaScript: 0.008575166627651645
+  PowerShell: 0.0013873071449190236
+  Shell: 0.010437834709390748
 uber/kraken:
   CSS: 8.15775465960749e-05
   Dockerfile: 0.0036002890564401056
@@ -61819,6 +62261,14 @@ uber/kraken:
 uber/ludwig:
   Dockerfile: 0.0004785555459897223
   Python: 0.9995214444540103
+uber/manifold:
+  CSS: 5.7428251735815224e-05
+  HTML: 0.0006020703811012886
+  JavaScript: 0.8950193033026802
+  Jupyter Notebook: 0.03502011841335003
+  Makefile: 0.0008799490185326526
+  Python: 0.06812102170417411
+  Shell: 0.0003001089284258731
 uber/okbuck:
   Groovy: 0.0009529479454682031
   Java: 0.9236243187520977
@@ -61830,6 +62280,28 @@ uber/okbuck:
 uber/pam-ussh:
   Go: 0.9723117686023405
   Makefile: 0.027688231397659527
+uber/petastorm:
+  Dockerfile: 0.002366951833060904
+  Makefile: 0.001328093489290339
+  Python: 0.9961537032712761
+  Shell: 0.00015125140637272592
+uber/piranha:
+  C++: 0.061238355396792045
+  CMake: 0.0015082533678877448
+  Java: 0.4536153720436133
+  JavaScript: 0.24758002381452687
+  Objective-C: 0.046545726226331394
+  Shell: 0.012126730639023137
+  Swift: 0.17738553851182554
+uberpixel/Rayne:
+  Batchfile: 0.00020170920485652029
+  C: 0.030936108156692926
+  C++: 0.8769678869530358
+  CMake: 0.06231546957504542
+  HLSL: 0.007009485402518504
+  Objective-C: 0.002886578226052645
+  Python: 0.01940790200336713
+  Shell: 0.0002748604784310573
 ubisoft/mobydq:
   Dockerfile: 0.013784042923286222
   HTML: 0.007671943455301914
@@ -61855,6 +62327,38 @@ ucb-bar/riscv-mini:
   Makefile: 0.025410908174039112
   Scala: 0.895685267188805
   Shell: 0.010613486297807964
+ucbrise/clipper:
+  C++: 0.551596437063752
+  CMake: 0.08735477779237909
+  Dockerfile: 0.012936761721202564
+  Java: 0.019925922681190103
+  Makefile: 0.00032663673938660435
+  Python: 0.2591516421878388
+  R: 0.017726532583366726
+  Scala: 0.027445597948029067
+  Shell: 0.023535691282854976
+uclnlp/stat-nlp-book:
+  CSS: 1.5922428177790022e-05
+  Dockerfile: 7.535054981783571e-05
+  HTML: 0.4276177888552088
+  JavaScript: 0.013467845382170355
+  Jupyter Notebook: 0.5531426728708564
+  Python: 0.005555897159284272
+  Shell: 6.120768714226928e-05
+  TeX: 6.33150673422709e-05
+udacity/AIND-NLP:
+  Jupyter Notebook: 0.995691494766792
+  TeX: 0.004308505233208007
+udacity/Advanced_Android_Development:
+  Java: 1.0
+udacity/Just-Java:
+  Java: 1.0
+udacity/NLP-Exercises:
+  Jupyter Notebook: 0.9996298688154838
+  Python: 0.00037013118451617875
+udacity/machine-learning:
+  Jupyter Notebook: 0.9711789781544109
+  Python: 0.028821021845589125
 udacity/nd9991-c3-Build-CI-CD-Pipelines-Monitoring-and-Logging-v1:
   HTML: 1.0
 udacity/self-driving-car:
@@ -61866,6 +62370,36 @@ udacity/self-driving-car:
   Python: 0.06496907312558249
   R: 6.749896734811538e-05
   Shell: 0.0003590615799664382
+udacity/ud120-projects:
+  DIGITAL Command Language: 0.9099212334506452
+  Python: 0.09007876654935479
+udhos/update-golang:
+  Shell: 1.0
+udibr/headlines:
+  Jupyter Notebook: 1.0
+udos86/ng-dynamic-forms:
+  CSS: 0.003951788359188417
+  HTML: 0.1219243198423891
+  JavaScript: 0.010864096040593308
+  Shell: 0.00044115458481861283
+  TypeScript: 0.8628186411730105
+ueberauth/ueberauth:
+  Elixir: 0.9954631446188341
+  Makefile: 0.004536855381165919
+ueokande/vim-vixen:
+  CSS: 0.0006622025477553231
+  HTML: 0.0008329266420984923
+  JavaScript: 0.05168801292674557
+  TypeScript: 0.9468168578834006
+ufal/neuralmonkey:
+  CSS: 0.015373356121897996
+  HTML: 0.00347629736399377
+  JavaScript: 0.0023093503027814843
+  Makefile: 0.0028604706165853747
+  Mathematica: 0.00209068718232488
+  Perl: 0.05034718348513314
+  Python: 0.9183315557657895
+  Shell: 0.005211099161493871
 ufal/udpipe:
   C: 0.0033511292676239772
   C#: 0.0005311455458533651
@@ -61884,9 +62418,19 @@ ufal/udpipe:
   SWIG: 0.00636300083110462
   Shell: 0.012531043615031849
   XS: 3.92986299822143e-05
+ufc-great/mpos:
+  C#: 0.32980478797775714
+  HTML: 0.06977468967799089
+  Java: 0.4922000576350421
+  PowerShell: 0.10822046470920986
 ufoym/deepo:
   Python: 0.8991524616703171
   Shell: 0.10084753832968289
+ufrisk/MemProcFS:
+  C: 0.9752322383427292
+  C#: 0.01129919451259094
+  C++: 0.005685166063666403
+  Python: 0.0077834010810135
 ugeneunipro/ugene:
   Assembly: 3.33680907500437e-06
   Batchfile: 0.0007162915698916199
@@ -61909,18 +62453,56 @@ ugeneunipro/ugene:
   VBScript: 4.398521053414851e-05
 uhop/stream-json:
   JavaScript: 1.0
+uiii/FakeInput:
+  Batchfile: 0.004250209651597164
+  C++: 0.9188648318975375
+  CMake: 0.07130060227186094
+  Shell: 0.005584356179004346
 uikit/uikit:
   HTML: 0.4343055961613897
   JavaScript: 0.12002598936625027
   Less: 0.17407623155658528
   SCSS: 0.27159218291577475
+ujjwalkarn/DataSciencePython:
+  Python: 0.9845790715971676
+  R: 0.015420928402832415
+ujjwalkarn/DataScienceR:
+  R: 0.9987571221092615
+  Rebol: 0.001242877890738465
 ujjwalkarn/Machine-Learning-Tutorials: {}
+uku/Unblock-Youku:
+  CSS: 0.020437289963904908
+  HTML: 0.0693357673318674
+  JavaScript: 0.8520267186657262
+  Makefile: 0.0019914533460565075
+  Python: 0.056208770692444926
 ukupat/tabs-or-spaces:
   CSS: 0.11416372749211064
   HTML: 0.21366252088360868
   JavaScript: 0.6721737516242807
 ullmark/hashids.net:
   C#: 1.0
+ultimatepp/ultimatepp:
+  Assembly: 7.320804420031652e-05
+  Batchfile: 2.4200832579287816e-05
+  C: 0.3096799007388239
+  C++: 0.6544783045654469
+  CMake: 6.68456011607922e-05
+  GLSL: 4.5483267624253174e-05
+  HTML: 0.007677866573690614
+  JavaScript: 9.015913996523558e-06
+  Makefile: 0.020793662330539083
+  Objective-C: 0.0013745568282983434
+  Objective-C++: 0.00034400926324608497
+  Perl: 0.00010134492878554932
+  Python: 0.0008404858743335667
+  Raku: 1.9764363705065636e-07
+  Roff: 0.00017764378305463674
+  SWIG: 0.0010736002364591653
+  Scheme: 1.930179349069176e-05
+  Shell: 0.0006241838369085749
+  Turing: 0.0024129302403410545
+  Yacc: 0.00018325770338362878
 ultralytics/yolov3:
   Dockerfile: 0.01428417363170666
   Python: 0.9552871393906713
@@ -61947,6 +62529,12 @@ umijs/umi:
 umpirsky/country-list:
   HTML: 0.613362166022939
   PHP: 0.38663783397706103
+umts/pvta-multiplatform:
+  CSS: 0.027837862798757575
+  HTML: 0.21288892561501407
+  JavaScript: 0.023254118321853718
+  Ruby: 0.033233362660224475
+  TypeScript: 0.7027857306041502
 una/CSSgram:
   CSS: 0.40175993939050886
   HTML: 0.5841631579634863
@@ -61964,8 +62552,41 @@ unconed/TermKit:
   Python: 0.0008715332959026039
   Ruby: 0.000458367829874163
   Shell: 0.0004813655237605829
+uncrustify/uncrustify:
+  Awk: 0.0015599742322944842
+  Batchfile: 0.0010863558260306508
+  C: 0.16078731132303462
+  C#: 0.02241120358149625
+  C++: 0.6206147781729429
+  CMake: 0.007605769449618075
+  D: 0.07653719477250077
+  Forth: 0.0003922951593999572
+  Java: 0.0047988387654108195
+  JavaScript: 0.0016625233580567938
+  MATLAB: 0.0001887313087595622
+  Objective-C: 0.04231391745076683
+  Objective-C++: 0.005143823230880534
+  OpenEdge ABL: 0.0010620611453637694
+  Pawn: 0.0004720840053796095
+  Perl: 0.0007567153694031769
+  Python: 0.044964850711744636
+  Shell: 0.00488936841758004
+  Smalltalk: 0.0005025162895833872
+  Vala: 0.0022496874297532094
+undabot/kotlin-multiplatform:
+  CSS: 0.021333333333333333
+  HTML: 0.015703703703703702
+  Java: 0.06767407407407408
+  JavaScript: 0.10038518518518519
+  Kotlin: 0.7949037037037037
+undertheseanlp/underthesea:
+  Makefile: 0.014749806408790884
+  Python: 0.9852501935912091
 ungerik/go-dry:
   Go: 1.0
+uniVocity/univocity-parsers:
+  HTML: 0.0047568401744088225
+  Java: 0.9952431598255912
 unibas-gravis/basel-face-pipeline:
   Scala: 1.0
 unicodeveloper/awesome-nextjs: {}
@@ -61989,6 +62610,11 @@ unicorn-engine/unicorn:
   VBA: 0.012410135772990728
 unidoc/unioffice:
   Go: 1.0
+uniqush/uniqush-push:
+  Dockerfile: 0.0014290221968713212
+  Go: 0.9835192174662314
+  Lua: 0.0007281641767497178
+  Shell: 0.014323596160147575
 unitedstates/python-us:
   Python: 1.0
 unity3d-jp/MeshSync:
@@ -62016,6 +62642,8 @@ unixorn/luggage:
 unixpickle/gobfuscate:
   Go: 1.0
 unknwon/go-study-index: {}
+unknwon/go-web-foundation:
+  Go: 1.0
 unknwon/goconfig:
   Go: 1.0
 unknwon/the-way-to-go_ZH_CN:
@@ -62026,11 +62654,19 @@ unknwon/the-way-to-go_ZH_CN:
   JavaScript: 0.015217940525197284
   Makefile: 0.006530042057394225
   Shell: 0.0015723223706697975
+unlink2/RetroSpy:
+  C++: 0.10647824374402134
+  Python: 0.8935217562559786
+unnati-xyz/intro-to-deep-learning-for-nlp:
+  Jupyter Notebook: 1.0
 unosquare/embedio:
   C#: 0.849752846425407
   CSS: 0.012223088781278344
   HTML: 0.008472257612346679
   JavaScript: 0.12955180718096793
+unpingco/Python-for-Probability-Statistics-and-Machine-Learning:
+  Jupyter Notebook: 0.9994954217028136
+  Python: 0.0005045782971864054
 unrolled/render:
   Go: 0.9998053545201989
   HTML: 0.00019464547980110772
@@ -62039,6 +62675,8 @@ unrolled/secure:
 unruledboy/WebFrontEndStack:
   HTML: 0.07686308762516766
   JavaScript: 0.9231369123748323
+unsplash/datasets:
+  Jupyter Notebook: 1.0
 upend/IF_MS_BUYS_GITHUB_IMMA_OUT: {}
 upspin/upspin:
   Go: 0.998843036956147
@@ -62051,6 +62689,14 @@ upx/upx:
   Makefile: 0.008092386890690575
   Python: 0.005895087615643972
   Shell: 0.005793434780495351
+urbanadventurer/WhatWeb:
+  Makefile: 0.0005896508141676173
+  Roff: 0.0028987035822525724
+  Ruby: 0.9915381922778395
+  Shell: 0.0030356752899853862
+  XSLT: 0.0019377780357549247
+urduhack/urduhack:
+  Python: 1.0
 urfave/cli:
   Go: 0.9983292977501015
   Shell: 0.0016707022498985019
@@ -62067,8 +62713,20 @@ usablica/intro.js:
   PHP: 0.00463517583438763
   SCSS: 0.0346257338095398
   Shell: 0.004515751014177965
+usiksan/SaliCAD:
+  Batchfile: 0.00010612984059466403
+  C: 0.013208111352102592
+  C++: 0.8133007643875424
+  HTML: 0.16271557623870792
+  QMake: 0.009596327570595295
+  Qt Script: 0.0009610646676072353
+  Shell: 0.00011202594284992313
 usmanhalalit/laracsv:
   PHP: 1.0
+usnistgov/800-63-3:
+  CSS: 0.7133842973637237
+  HTML: 0.040789309489835224
+  JavaScript: 0.2458263931464411
 usrbinnc/netcat-cpi-kernel-module:
   C: 1.0
 ustbhuangyi/better-scroll:
@@ -62079,10 +62737,17 @@ ustbhuangyi/better-scroll:
   Stylus: 0.013515445674550037
   TypeScript: 0.6877872089859034
   Vue: 0.22360829037529922
+ustc-zzzz/fmltutor:
+  Java: 0.9975729014589496
+  Shell: 0.002427098541050393
 uswds/uswds:
   HTML: 0.15143034053530433
   JavaScript: 0.3190163259657726
   SCSS: 0.5295533334989231
+utcompling/applied-nlp:
+  R: 0.04151051426191963
+  Scala: 0.8803872579637726
+  Shell: 0.07810222777430773
 utkuozbulak/pytorch-cnn-visualizations:
   Python: 1.0
 utom/sketch-measure:
@@ -62093,15 +62758,37 @@ utom/sketch-measure:
 uuidjs/uuid:
   JavaScript: 0.9715458330060482
   Shell: 0.02845416699395177
+uup-dump/converter:
+  Shell: 1.0
 uutils/coreutils:
   Batchfile: 0.007048196984482776
   Makefile: 0.0039760597108380764
   Rust: 0.9851129236928262
   Shell: 0.0038628196118529077
+uvipen/Hierarchical-attention-networks-pytorch:
+  HTML: 0.0601596456034771
+  JavaScript: 0.4444583751253761
+  Python: 0.4953819792711468
+uwnlp/denspi:
+  CSS: 0.0014592820332396462
+  Dockerfile: 0.0036861863962930237
+  HTML: 0.030209137104544564
+  Python: 0.9592480499594199
+  Shell: 0.005397344506502801
 uxweb/sweet-alert:
   Blade: 0.014784317394965846
   PHP: 0.9698387448925486
   Twig: 0.015376937712485574
+uzysjung/UzysAnimatedGifPullToRefresh:
+  C: 0.004534958128147345
+  Objective-C: 0.8638121470105444
+  Ruby: 0.013257101521854046
+  Shell: 0.11839579333945413
+v1s1t0r1sh3r3/airgeddon:
+  Dockerfile: 0.0020612560883784448
+  Shell: 0.9979387439116215
+v2fly/fhs-install-v2ray:
+  Shell: 1.0
 v2fly/v2ray-core:
   Assembly: 0.0004916542990330363
   Dockerfile: 0.0005498421083600845
@@ -62129,6 +62816,8 @@ v8/v8:
   Shell: 0.0005972765819328544
   TypeScript: 0.0013925496526766702
   Vim script: 7.955039383876264e-05
+vDocumentation/vDoc:
+  PowerShell: 1.0
 vaadin/framework:
   Batchfile: 0.0015693297972537161
   CSS: 0.0013399764863748498
@@ -62139,6 +62828,9 @@ vaadin/framework:
   SCSS: 0.02821363942689487
   Shell: 0.0032052498414994975
   Smarty: 6.875099246968415e-06
+vacancy/SceneGraphParser:
+  Python: 0.9621136155556524
+  Shell: 0.03788638444434756
 vadimdemedes/ink:
   JavaScript: 0.027121465325345293
   TypeScript: 0.9728785346746547
@@ -62153,6 +62845,11 @@ vaexio/vaex:
   Python: 0.5592173885086698
   Shell: 0.0026145517129393552
   Vue: 0.001479117160974097
+vagrantpress/vagrantpress:
+  ApacheConf: 0.0017999307718933888
+  PHP: 0.3336102457597785
+  Puppet: 0.6421599169262721
+  Shell: 0.022429906542056073
 vahidk/EffectiveTensorflow: {}
 vaibhavpandeyvpz/apkstudio:
   Batchfile: 0.004739800341153771
@@ -62179,6 +62876,9 @@ valeriobasile/learningbyreading:
   Shell: 0.006207136156033985
   TeX: 0.001655355002523583
   sed: 6.200751224080476e-06
+valkuc/xoscillo:
+  Arduino: 0.06012374653296352
+  C#: 0.9398762534670365
 valor-software/ngx-bootstrap:
   Dockerfile: 8.249606432531548e-05
   HTML: 0.006717845447766302
@@ -62196,6 +62896,9 @@ vanheeringen-lab/gimmemotifs:
   Python: 0.7549402743825686
   Shell: 8.70532930849099e-05
   Smarty: 0.01168043441946041
+vaniacer/piu-piu-SH:
+  Dockerfile: 0.0009509469847056027
+  Shell: 0.9990490530152945
 vapid/vapid:
   HTML: 0.04152802052806711
   JavaScript: 0.4664910088443241
@@ -62205,16 +62908,42 @@ vapor/vapor:
   HTML: 1.651120450337599e-05
   Shell: 0.0006582466862012562
   Swift: 0.9109462681375582
+varnishcache/varnish-cache:
+  Awk: 0.0014318032772172437
+  C: 0.851739286797216
+  C++: 0.05239592261402981
+  Emacs Lisp: 2.115491746056371e-05
+  M4: 0.034276415280004566
+  Makefile: 0.007808087717262605
+  Objective-C: 0.006446159773475708
+  Python: 0.029381936649355962
+  Roff: 0.002293064841104133
+  Shell: 0.008503635761041744
+  SmPL: 0.0016036068493212156
+  VCL: 0.004098925522510435
 varvet/pundit:
   Ruby: 1.0
+vasanthk/js-bits:
+  JavaScript: 1.0
 vasanthk/react-bits: {}
+vasasharath/Multiplatform-Mobile-App-Development-with-React-Native:
+  JavaScript: 1.0
 vavr-io/vavr:
   Java: 0.9605059539074009
   Scala: 0.039384836592522114
   Shell: 0.000109209500076933
+vccw-team/vccw:
+  PHP: 0.06551724137931035
+  Ruby: 0.7609026369168357
+  Shell: 0.17358012170385395
 vdumoulin/conv_arithmetic:
   Python: 0.20283604207076852
   TeX: 0.7971639579292314
+vearch/vearch:
+  Dockerfile: 0.0003779662301710505
+  Go: 0.941076726106356
+  Python: 0.05020305301184052
+  Shell: 0.008342254651632472
 vector-im/element-web:
   Dockerfile: 0.003416408840335796
   HTML: 0.36982373749080394
@@ -62243,9 +62972,16 @@ vega/ipyvega:
 veggiemonk/awesome-docker: {}
 vekexasia/android-edittext-validator:
   Java: 1.0
+vektra/mockery:
+  Dockerfile: 0.00330343939321662
+  Go: 0.9814434956828698
+  Makefile: 0.0043409817297142585
+  Shell: 0.010912083194199304
 velesin/jasmine-jquery:
   JavaScript: 1.0
 veltman/clmystery: {}
+venantius/ultra:
+  Clojure: 1.0
 venmo/synx:
   Objective-C: 0.0823743711328283
   Ruby: 0.9176256288671717
@@ -62264,6 +63000,8 @@ vercel/hyper:
   JavaScript: 0.023816856944862488
   Shell: 0.008770763189393887
   TypeScript: 0.964069970110807
+vercel/micro-dev:
+  JavaScript: 1.0
 vercel/ncc:
   C++: 0.005880030750690852
   JavaScript: 0.982494961457749
@@ -62293,9 +63031,35 @@ verdaccio/verdaccio:
   TypeScript: 0.9333587865167041
 verekia/js-stack-from-scratch:
   JavaScript: 1.0
+vergecurrency/verge:
+  Assembly: 0.002245035444149013
+  C: 0.32719689259888673
+  C++: 0.5205875265568765
+  CMake: 4.576391092701745e-06
+  Dockerfile: 0.0005963511013558584
+  HTML: 0.0017226956332234
+  Java: 0.0023931369283042058
+  M4: 0.016959079646721543
+  Makefile: 0.008385999967491842
+  Objective-C: 0.0003859160143862799
+  Objective-C++: 0.0005239178768196481
+  Python: 0.10841975479696525
+  QMake: 5.949308420512269e-05
+  Sage: 0.0023819326604565564
+  Shell: 0.008137691299065422
 verlok/vanilla-lazyload:
   JavaScript: 1.0
+vesparny/angular-kickstart:
+  CSS: 0.13018735213248928
+  HTML: 0.3621714943410704
+  JavaScript: 0.5076411535264403
+vgrabovets/multi_rake:
+  Python: 1.0
 vhpoet/react-native-styling-cheat-sheet: {}
+vi/websocat:
+  Dockerfile: 0.00246661108401894
+  Rust: 0.9785524390819424
+  Shell: 0.018980949834038603
 vi3k6i5/flashtext:
   Python: 1.0
 viacreative/sudo-su:
@@ -62305,6 +63069,10 @@ viacreative/sudo-su:
   PHP: 0.4881806108897742
 viatsko/awesome-vscode:
   JavaScript: 1.0
+vibe-d/vibe.d:
+  D: 0.9741238240296434
+  Meson: 0.014920194309507287
+  Shell: 0.010955981660849313
 vibora-io/vibora:
   Python: 1.0
 vicc/Chameleon:
@@ -62316,10 +63084,30 @@ vicky002/AlgoWiki:
   CSS: 0.6762677188367675
   HTML: 0.06646207803594914
   JavaScript: 0.2572702031272834
+vicmns/kotlin-jsonparser-multiplatform:
+  Kotlin: 0.19748029061678776
+  Objective-C: 0.5772916988715412
+  Swift: 0.22522801051167105
 vicoyeh/pointers-for-software-engineers: {}
 victorb/trymodule:
   JavaScript: 0.6246056782334385
   Shell: 0.3753943217665615
+victorporof/Sublime-HTMLPrettify:
+  JavaScript: 0.5575976182297034
+  Python: 0.44240238177029656
+victorqribeiro/hntitlenator:
+  CSS: 0.03174772279337346
+  HTML: 0.062430085761465935
+  JavaScript: 0.47009002290523627
+  Python: 0.43573216853992436
+video-react/video-react:
+  CSS: 0.26737274739171674
+  JavaScript: 0.7165846167743101
+  Shell: 0.01604263583397317
+videoflow/videoflow:
+  Dockerfile: 0.00927754312451052
+  Python: 0.990153487780552
+  Shell: 0.0005689690949375138
 videojs/videojs-contrib-hls:
   CSS: 0.000620056093668642
   HTML: 0.001969006742550037
@@ -62344,6 +63132,39 @@ videolan/vlc:
   Shell: 0.00447954050399853
   Vim script: 0.0001412322420497059
   Yacc: 0.0007100896511739284
+viebel/klipse:
+  Clojure: 0.9632837620578778
+  JavaScript: 0.027321141479099677
+  PHP: 0.009395096463022508
+viewfinderco/viewfinder:
+  AppleScript: 0.0002241625234110298
+  C: 0.00031166693014015467
+  C++: 0.11460196478001644
+  CSS: 0.021234042599161757
+  Emacs Lisp: 0.0015537433701007886
+  GLSL: 0.0009002510980362642
+  HTML: 0.03159458236091211
+  Java: 0.0416236496683655
+  JavaScript: 0.07857544626347181
+  Makefile: 0.0002146198617718454
+  Objective-C: 0.05555080423031592
+  Objective-C++: 0.24704762652399007
+  Python: 0.4022086940489441
+  Ruby: 3.736042056850497e-05
+  Shell: 0.004321385320793676
+vifm/vifm:
+  C: 0.8956884446370078
+  C++: 0.005540604771097048
+  CSS: 0.001687811347543698
+  Lua: 0.0012245404413634303
+  M4: 0.007271132645665052
+  Makefile: 0.026667826115257327
+  Objective-C: 0.0008651791822700647
+  Perl: 0.002813696952684327
+  Python: 0.0005775206649674982
+  Roff: 0.03750883994795364
+  Shell: 0.012333041098045278
+  Vim script: 0.0078213621961448
 vigetlabs/blendid:
   CSS: 0.05565373716444742
   Dockerfile: 0.0058959748925927055
@@ -62382,6 +63203,11 @@ viljamis/responsive-nav.js:
   CSS: 0.08711090069830749
   HTML: 0.08574721989224349
   JavaScript: 0.827141879409449
+viljamis/vue-design-system:
+  CSS: 0.08633272722743916
+  HTML: 0.0035992726729269934
+  JavaScript: 0.5180959972102523
+  Vue: 0.3919720028893815
 vim-airline/vim-airline:
   Ruby: 0.0007635658525313213
   Vim script: 0.9992364341474687
@@ -62425,6 +63251,18 @@ vinc3m1/RoundedImageView:
 vincentdoerig/latex-css:
   CSS: 0.25615337953346445
   HTML: 0.7438466204665355
+vincentriemer/react-native-dom:
+  CSS: 0.021661461586508432
+  HTML: 0.07100062460961899
+  JavaScript: 0.9073379138038726
+vineetchoudhary/AppBox-iOSAppsWirelessInstallation:
+  C: 0.0017707192405987586
+  Objective-C: 0.8666803577948157
+  Ruby: 0.11182685286600949
+  Shell: 0.019722070098576124
+vinhkhuc/JFastText:
+  C++: 0.28142542567378964
+  Java: 0.7185745743262103
 vinkla/hashids:
   PHP: 1.0
 vinkla/instagram:
@@ -62440,15 +63278,34 @@ vipshop/vjtools:
   HTML: 0.012917146208789868
   Java: 0.9659275619745826
   Shell: 0.01959414659242357
+vipul-sharma20/sharingan:
+  Python: 1.0
+vipulshah2010/NativeMovieApp:
+  Kotlin: 0.6962780031751632
+  Swift: 0.30372199682483686
 viraptor/reverse-interview: {}
+virgili0/Virgilio:
+  HTML: 0.00020483764684057254
+  JavaScript: 0.033069685380969036
+  Jupyter Notebook: 0.8434112811435351
+  Python: 0.018497225995829814
+  Stylus: 0.018458577383218384
+  Vue: 0.08635839244960704
 virinext/pipeviz:
   C++: 0.9802608137960521
   Prolog: 0.0014093763113929864
   QMake: 0.011132489291115386
   Shell: 0.007197320601439464
+vis2k/Mirror:
+  C#: 0.99989334295596
+  PowerShell: 0.0001066570440399621
 vishnubob/wait-for-it:
   Python: 0.5637258993406227
   Shell: 0.43627410065937733
+visiblevc/wordpress-starter:
+  Dockerfile: 0.45377677564825253
+  JavaScript: 0.22196687191050213
+  Shell: 0.32425635244124534
 vision5/ngx_devel_kit:
   C: 0.9395101087189653
   C++: 0.03434194936165871
@@ -62468,11 +63325,37 @@ visionmedia/superagent:
   Makefile: 0.0037583771055968124
 visionmedia/supertest:
   JavaScript: 1.0
+visualboyadvance-m/visualboyadvance-m:
+  Assembly: 0.06247306151994615
+  Batchfile: 0.0012140691358375798
+  C: 0.15030783128397515
+  C++: 0.6581303911789173
+  CMake: 0.03839114125381174
+  Lex: 0.0005599552804417075
+  Makefile: 0.0044807952056759555
+  Objective-C: 0.036135562982766864
+  Objective-C++: 0.0006714082875303109
+  PHP: 0.008128767423900176
+  Perl: 7.302093567874017e-06
+  Roff: 0.0009150676202688439
+  Shell: 0.037928995595108136
+  Yacc: 0.000655651138252267
+visualdoj/dcpuinfo:
+  Pascal: 1.0
 vitalets/x-editable:
   CSS: 0.020167537203114223
   HTML: 0.004080023652311028
   JavaScript: 0.9757524391445748
 vitalysim/Awesome-Hacking-Resources: {}
+vitejs/vite:
+  AppleScript: 0.008140221886693362
+  CSS: 0.0021076126277092323
+  HTML: 0.0027329862106852507
+  JavaScript: 0.14115821951649293
+  SCSS: 0.001039985903181113
+  Shell: 0.0002245816734444264
+  TypeScript: 0.7573446844972999
+  Vue: 0.08725170768449385
 vitessio/vitess:
   CSS: 0.001127427127929544
   Dockerfile: 0.001133534582121966
@@ -62487,10 +63370,30 @@ vitessio/vitess:
   Smarty: 0.0035747776407439413
   TypeScript: 0.007586438866055282
   Yacc: 0.0035590854956656023
+vitmalina/Web-2.0-Touch:
+  CSS: 0.631808838643371
+  JavaScript: 0.35586984957488554
+  PHP: 0.012321311781743437
+vitmalina/w2ui:
+  CSS: 0.011788333794470694
+  HTML: 0.09892112333984776
+  Java: 0.0986818554073398
+  JavaScript: 0.6093244283782854
+  Less: 0.08036584898313438
+  PHP: 0.013197150771592892
+  Python: 0.08423385992294465
+  Ruby: 0.002522475249857155
+  Shell: 0.0009649241525273021
+vitutorial/VITutorial:
+  Jupyter Notebook: 0.28224313537787976
+  Python: 0.09044196833932808
+  TeX: 0.6273148962827921
 vivek-bombatkar/Spark-with-Python---My-learning-notes-:
   CSS: 0.9256466317243017
   Jupyter Notebook: 0.06505478923220835
   Python: 0.009298579043489881
+vivekn/sentiment:
+  Python: 1.0
 vjeantet/bitfan:
   CSS: 0.014310830249455966
   Go: 0.7965142964866337
@@ -62500,6 +63403,16 @@ vjeantet/bitfan:
   Smarty: 0.0010552802947408108
 vkocubinsky/SublimeTableEditor:
   Python: 1.0
+vkorchik/chat-multiplatform:
+  CSS: 0.007312136841418032
+  Dart: 0.9324933080890514
+  HTML: 0.03489586733694588
+  Kotlin: 0.010935561794085004
+  Objective-C: 0.0012078083175556572
+  Swift: 0.01315531762094405
+vksdk/vk-sdk-kotlin:
+  Kotlin: 0.9851181331229498
+  Shell: 0.014881866877050202
 vladikoff/chromeos-apk:
   HTML: 0.13418731625367492
   JavaScript: 0.865812683746325
@@ -62508,6 +63421,8 @@ vladotesanovic/ngSemantic:
   HTML: 0.04359585237437154
   JavaScript: 0.3121656337168389
   TypeScript: 0.6107404173060782
+vlall/Swift-Brain:
+  Swift: 1.0
 vlang/v:
   AMPL: 0.0003618469568608433
   Batchfile: 0.0018804792628571286
@@ -62524,11 +63439,26 @@ vlang/v:
   Python: 0.0005115228569785842
   Shell: 0.00010624176626311461
   V: 0.9844949516412478
+vlarine/transformers-ru:
+  C++: 0.0003224436223478052
+  Cuda: 0.0006350140091609838
+  JavaScript: 0.0013823760825227185
+  Jupyter Notebook: 0.9148310081248111
+  Python: 0.08270614897230205
+  Shell: 0.0001230091888553478
 vlucas/frisby:
   JavaScript: 1.0
 vlucas/phpdotenv:
   Makefile: 0.009820135035398955
   PHP: 0.9901798649646011
+vmandic/PushSharp-Anywhere:
+  ASP: 0.0003192662680675684
+  C#: 0.2263336622743368
+  Java: 0.04103732512915772
+  JavaScript: 0.029947175944737912
+  Pascal: 0.38634411098856447
+  PowerShell: 0.31319730655366573
+  Puppet: 0.0028211528414697857
 vmg/redcarpet:
   C: 0.5106810247151267
   HTML: 0.30623543391950775
@@ -62575,6 +63505,8 @@ vmwarepivotallabs/concourse-pipeline-samples:
   JavaScript: 0.05260306892272539
   Python: 0.019244784998128706
   Shell: 0.8687828707625032
+vncorenlp/VnCoreNLP:
+  Java: 1.0
 vnotex/vnote:
   Batchfile: 0.00022883203671368626
   C: 0.1195671674879099
@@ -62609,6 +63541,14 @@ voidcosmos/npkill:
   Go: 0.023177818362942054
   JavaScript: 0.03270795284741823
   TypeScript: 0.9441142287896397
+voila-dashboards/voila:
+  CSS: 0.07077007669346892
+  HTML: 0.041520872905925536
+  JavaScript: 0.07234464930947314
+  Jupyter Notebook: 0.3437566946114626
+  Python: 0.42652708550536284
+  Smarty: 0.006394692869078393
+  TypeScript: 0.038685928105228584
 vojtajina/grunt-bump:
   CoffeeScript: 0.09350747681241718
   JavaScript: 0.9064925231875828
@@ -62617,6 +63557,12 @@ volatilityfoundation/volatility:
   HTML: 0.00013868550703097178
   Makefile: 2.0854260328999803e-05
   Python: 0.9953748741886477
+volcano-sh/volcano:
+  Dockerfile: 0.0027164685908319186
+  Go: 0.9379659162753692
+  Makefile: 0.004213225735414254
+  Python: 0.0003537660455633618
+  Shell: 0.05475062335282125
 voltrb/volt:
   CSS: 0.0009081506521026211
   HTML: 0.06908071369109184
@@ -62655,6 +63601,10 @@ vrana/adminer:
   HTML: 0.02951054399909428
   JavaScript: 0.029186215714937416
   PHP: 0.7836983413971423
+vrasneur/pyfasttext:
+  C++: 0.33948601448246485
+  Makefile: 0.015097732973638128
+  Python: 0.645416252543897
 vrm-c/UniVRM:
   C#: 0.9856016958885231
   Python: 0.0047402572544215605
@@ -62666,6 +63616,12 @@ vsch/flexmark-java:
   Java: 0.9722172596133856
   JavaScript: 0.00025115116025286916
   Shell: 0.00047031824309330504
+vscode-icons/vscode-icons:
+  TypeScript: 1.0
+vseloved/cl-nlp:
+  CSS: 0.0013190493110279337
+  Common Lisp: 0.9966439686348569
+  JavaScript: 0.002036982054115093
 vshymanskyy/TinyGSM:
   C: 0.009778960066212468
   C++: 0.9898278427308274
@@ -62691,9 +63647,23 @@ vueComponent/ant-design-vue:
   Shell: 0.00029982395127129097
   TypeScript: 0.3290249663846643
   Vue: 0.22098931013605747
+vuejs-templates/webpack:
+  HTML: 0.006460347243664347
+  JavaScript: 0.9306700235137638
+  Shell: 0.003871458090872384
+  Vue: 0.058998171151699405
+vuejs-templates/webpack-simple:
+  HTML: 0.04850213980028531
+  JavaScript: 0.6243461721350452
+  Vue: 0.32715168806466954
 vuejs/awesome-vue: {}
 vuejs/jsx:
   JavaScript: 1.0
+vuejs/vetur:
+  JavaScript: 0.0021602824961802617
+  Shell: 0.0005307268416221404
+  TypeScript: 0.9375910084407993
+  Vue: 0.059717982221398305
 vuejs/vue:
   CSS: 0.0038951665605069198
   HTML: 0.006148648462338107
@@ -62707,6 +63677,14 @@ vuejs/vue-apollo:
   Stylus: 0.003400021773538451
   TypeScript: 0.09455577794340556
   Vue: 0.18181742050564856
+vuejs/vue-cli:
+  AppleScript: 0.001874116039283254
+  HTML: 0.002712536372646815
+  JavaScript: 0.7421793837690096
+  Shell: 0.0001535247859005382
+  Stylus: 0.0049382480355986596
+  TypeScript: 0.009185236802038936
+  Vue: 0.23895695419552218
 vuejs/vue-component-compiler:
   JavaScript: 0.04618580865118261
   TypeScript: 0.9538141913488174
@@ -62723,6 +63701,14 @@ vuejs/vuejs.org:
   JavaScript: 0.6662073946162288
   Stylus: 0.0796147763217352
   Vue: 0.000474065586469563
+vuesion/vuesion:
+  Dockerfile: 0.0006839265058159923
+  HTML: 0.002400721612252055
+  Handlebars: 0.046220869877748136
+  JavaScript: 0.008496740008479293
+  SCSS: 0.054888591512681426
+  TypeScript: 0.5273195489574483
+  Vue: 0.35998960152557485
 vuetifyjs/vuetify:
   Dockerfile: 2.8849317908965376e-05
   HTML: 0.0005601575893990778
@@ -62732,12 +63718,20 @@ vuetifyjs/vuetify:
   Shell: 0.0001322260404160913
   TypeScript: 0.5352696434554871
   Vue: 0.32329086573497395
+vugsus/coursera-machine-learning:
+  MATLAB: 1.0
 vugu/vugu:
   Dockerfile: 0.001387678504228644
   Go: 0.9220572798035216
   HTML: 0.0007377844679038999
   JavaScript: 0.07368560478520074
   Shell: 0.0021316524391451603
+vulcand/vulcan:
+  Go: 0.99794227093683
+  Makefile: 0.0020577290631700294
+vunb/vntk:
+  HTML: 0.02675293166194905
+  JavaScript: 0.973247068338051
 vurtun/nuklear:
   C: 0.9975617689558075
   Makefile: 0.00040288367039232324
@@ -62747,6 +63741,37 @@ vuvuzela/vuvuzela:
   Go: 1.0
 vvo/gifify:
   JavaScript: 1.0
+vxunderground/MalwareSourceCode:
+  AspectJ: 0.0019508175612099753
+  Assembly: 0.7936853293925716
+  Brainfuck: 0.03790039925327321
+  C: 0.05348065296105958
+  C++: 0.0028441777478357163
+  CWeb: 0.0009898534973880114
+  Coq: 0.0003465430702089363
+  D: 0.0027776149313085397
+  E: 0.014312892475805587
+  Forth: 0.005995728658207485
+  Fortran: 0.0044877522790932696
+  GAP: 0.0056275835791158284
+  Io: 1.8869224626472313e-06
+  Lex: 0.006926436896335278
+  Limbo: 0.017992456344259503
+  Makefile: 0.00017079901601548214
+  Objective-J: 0.0004982125964306845
+  OpenEdge ABL: 0.0003425740264081956
+  Perl: 0.004945428575722947
+  Python: 0.0009057878483624864
+  R: 0.0028159389771878233
+  Roff: 0.03443282136355394
+  SWIG: 3.4094736911281e-05
+  Shell: 0.0005505258950502835
+  V: 0.001111852794541927
+  Yacc: 0.004871838599679705
+vzhong/embeddings:
+  Dockerfile: 0.015412125340599455
+  Python: 0.9819908038147139
+  Shell: 0.0025970708446866487
 w0lfschild/mySIMBL:
   Objective-C: 0.7632814495740952
   Rich Text Format: 0.2014569734767404
@@ -62764,10 +63789,18 @@ w3c/libwww:
   Module Management System: 0.009584733449475654
   Perl: 0.006260496957213119
   Shell: 0.06322450661430938
+w3c/webcomponents:
+  CSS: 0.024416363032291395
+  HTML: 0.9691448008992021
+  JavaScript: 0.00643883606850653
 wa0x6e/cal-heatmap:
   CSS: 0.004675132070835601
   HTML: 0.008003229373255875
   JavaScript: 0.9873216385559085
+wadejensen/kotlin-nodejs-example:
+  HTML: 0.009711204584591931
+  JavaScript: 0.0033029387685966746
+  Kotlin: 0.9869858566468114
 waditu/tushare:
   Python: 1.0
 wagerfield/parallax:
@@ -62787,9 +63820,29 @@ wagtail/wagtail:
   SCSS: 0.035527847405217416
   Shell: 0.0015830423263420244
   TypeScript: 0.005305432368546964
+wailsapp/wails:
+  Batchfile: 2.8935101460933273e-05
+  CSS: 0.0036371422536393126
+  Go: 0.7656444859823901
+  HTML: 0.004458899135129818
+  JavaScript: 0.08398702550050492
+  Objective-C: 0.11037728478794911
+  Shell: 0.0014858174600189235
+  Svelte: 0.002553522703927361
+  TypeScript: 0.013097473676291447
+  Vue: 0.014729413398688083
 walidshaari/Kubernetes-Certified-Administrator: {}
 walkor/Workerman:
   PHP: 1.0
+wallabag/wallabag:
+  CSS: 0.013096795586772375
+  Dockerfile: 0.0005715491514183221
+  JavaScript: 0.017220028336297592
+  Makefile: 0.0010858228077050614
+  PHP: 0.7649112229825461
+  SCSS: 0.03082506857986917
+  Shell: 0.0024188345943990594
+  Twig: 0.16987067796099237
 wallix/awless:
   Go: 0.9977307672565497
   HTML: 0.0006969093131753145
@@ -62799,6 +63852,11 @@ walter-cd/walter:
   Go: 0.9331659535344249
   Makefile: 0.02998691608614166
   Shell: 0.036847130379433504
+wandb/client:
+  Jupyter Notebook: 0.0027856746111268853
+  Makefile: 0.0008871195120047061
+  Python: 0.9933555544173728
+  Shell: 0.002971651459495585
 wandenberg/nginx-push-stream-module:
   C: 0.4417923328763653
   HTML: 0.012686014475098878
@@ -62820,6 +63878,23 @@ wang-bin/QtAV:
   QMake: 0.032299057564054524
   Qt Script: 0.0032514415407381403
   Shell: 0.009789544001418012
+wangeditor-team/wangEditor:
+  CSS: 0.010985646113333051
+  HTML: 0.071703481771459
+  JavaScript: 0.046144895584542836
+  Less: 0.030608591604365992
+  Shell: 0.0033705959665908222
+  TypeScript: 0.8371867889597083
+wangshengjia/LeeGo:
+  Objective-C: 0.0020220651910353668
+  Ruby: 0.01079878069901971
+  Swift: 0.987179154109945
+wangyu-/udp2raw-multiplatform:
+  Assembly: 0.3490187720993895
+  C: 0.0896237175600473
+  C++: 0.5542721984427622
+  Dockerfile: 0.0005297850243430966
+  Makefile: 0.0065555268734579205
 wangzheng0822/algo:
   C: 0.137206735090795
   C#: 0.039158939448158424
@@ -62870,6 +63945,15 @@ wasabeef/glide-transformations:
 wasabeef/recyclerview-animators:
   Java: 0.004273609234925703
   Kotlin: 0.9957263907650743
+wasdk/WebAssemblyStudio:
+  C: 0.0006843767716854296
+  CSS: 0.04806228233579007
+  HTML: 0.0034097351583380576
+  JavaScript: 0.039574390540212195
+  Rust: 0.027441888717907183
+  Shell: 0.0005223941038308901
+  TypeScript: 0.8778316595124321
+  WebAssembly: 0.002473272859804001
 wasmerio/wasmer:
   Batchfile: 8.243848646236394e-06
   C: 0.06495163471396731
@@ -62885,6 +63969,17 @@ wasmerio/wasmer:
   Rust: 0.8541275713594408
   Shell: 0.0005410712661479821
   WebAssembly: 0.002888919360596107
+watabee/RakutenRankingKotlin:
+  IDL: 0.004253926701570681
+  Kotlin: 0.6373618382780687
+  Prolog: 0.0036358347876672484
+  Ruby: 0.05986401977894124
+  Shell: 0.001490692262943572
+  Swift: 0.29339368819080863
+wavded/humane-js:
+  CSS: 0.6760048261820375
+  HTML: 0.16923685996531182
+  JavaScript: 0.15475831385265063
 waveform80/picamera:
   Makefile: 0.008023878028449272
   Python: 0.9919761219715507
@@ -62896,14 +63991,46 @@ wbond/package_control_channel:
 wcharczuk/go-chart:
   Go: 0.9998628376448659
   Makefile: 0.00013716235513400575
+wckr/wocker:
+  Shell: 1.0
 wcm-io-devops/jenkins-pipeline-library:
   Groovy: 0.996672578739907
   Shell: 0.0033274212600930427
+wdjungst/react-project:
+  CSS: 0.0033393627382774455
+  JavaScript: 0.955614303603729
+  Shell: 0.0410463336579936
+wdtracy/Radioactive:
+  Lua: 1.0
 wdullaer/MaterialDateTimePicker:
   Java: 1.0
 weavejester/compojure:
   Clojure: 0.9993552144431965
   HTML: 0.0006447855568035276
+web-Marker/wechat-Development:
+  HTML: 0.13751330113775886
+  JavaScript: 0.8624866988622412
+web-animations/web-animations-js:
+  HTML: 0.2336335853305453
+  JavaScript: 0.7612905575400378
+  Shell: 0.0050758571294169065
+web-platform-tests/wpt:
+  Batchfile: 4.756820432149562e-05
+  CSS: 0.0006796463801472703
+  Dockerfile: 2.1438037340966694e-05
+  HTML: 0.8855019155516894
+  Haxe: 3.0355540268511664e-05
+  JavaScript: 0.08561719945730485
+  Makefile: 6.327414611674929e-05
+  Perl: 0.00028419729715645155
+  Python: 0.02720541802911754
+  Roff: 5.543755263496735e-06
+  Ruby: 1.2929969809544084e-05
+  Shell: 0.0005055872045477333
+  XSLT: 2.4926426915929188e-05
+web-push-libs/web-push:
+  HTML: 0.018674155673233366
+  JavaScript: 0.9813258443267666
 web2py/web2py:
   CSS: 0.00777697869408903
   Dockerfile: 0.007227333620874663
@@ -62917,9 +64044,61 @@ web3j/web3j:
   Java: 0.981890870161587
   Shell: 0.002581602042978377
   Solidity: 0.015527527795434523
+webanno/webanno:
+  CSS: 0.004707302397719406
+  Dockerfile: 0.00016977395601795733
+  HTML: 0.03954327519883634
+  Java: 0.8542870297078866
+  JavaScript: 0.09682373009080898
+  SCSS: 0.004102870603767302
+  Shell: 0.00036601804496344564
+webbju/android-plus-plus:
+  Batchfile: 0.0007500227204937671
+  C: 0.7297656013892917
+  C#: 0.18606536838841023
+  C++: 0.03723302434118947
+  CMake: 0.0015725933082872336
+  GDB: 0.00037989059860467583
+  Java: 0.006731673235731481
+  Makefile: 0.0003936904646671186
+  Objective-C: 0.029301551321800456
+  Perl: 0.0039087134917150535
+  Python: 0.003199301805633618
+  RenderScript: 0.00017535686946489837
+  Shell: 0.0003095112816862175
+  Smalltalk: 0.00021370078302411448
+webbukkit/dynmap:
+  ASP.NET: 0.00030125250625996647
+  CSS: 0.007203945381894678
+  HTML: 0.0015713162845866207
+  Java: 0.9085768593773353
+  JavaScript: 0.07052782843343335
+  PHP: 0.011818798016490077
+webcamoid/webcamoid:
+  Batchfile: 0.0007885608933736017
+  C: 0.0009014249996758611
+  C++: 0.7265228311759143
+  Java: 0.0011592482782910036
+  Objective-C: 0.001111424504434114
+  Objective-C++: 0.026752619095544036
+  Python: 0.03743602507496111
+  QML: 0.14730508783314306
+  QMake: 0.04902893295808321
+  Qt Script: 0.0015528910746597127
+  Roff: 0.0004012946001858113
+  Shell: 0.0070396595117341474
+webclipper/web-clipper:
+  HTML: 0.004300995728065054
+  JavaScript: 0.029163815627831775
+  Less: 0.011611103332214934
+  TypeScript: 0.9549240853118882
 webcomponents/webcomponentsjs:
   HTML: 0.5955761048884258
   JavaScript: 0.40442389511157417
+webcoyote/coho:
+  C: 0.20600229847315712
+  C++: 0.750129699556723
+  Objective-C: 0.04386800197011985
 webdevops/Dockerfile:
   CSS: 0.0016256542021131836
   Dockerfile: 0.10980754845063868
@@ -62939,11 +64118,42 @@ webdriverio/webdriverio:
   Ruby: 5.240819973538155e-05
   SCSS: 0.010769025894805575
   TypeScript: 0.1853630771345602
+webfactorymk/kotlin-multiplatform-currency-converter:
+  Java: 0.01727529544009111
+  Kotlin: 0.3098312404786203
+  Objective-C: 0.5918415642425049
+  Swift: 0.08105189983878364
+webgems/webgems:
+  Dockerfile: 0.014688170916897942
+  HTML: 0.011336859192543331
+  JavaScript: 0.287532073100487
+  Vue: 0.6864428967900718
 webgio/Rotativa:
   ASP: 0.0004603143289274676
   C#: 0.449499134170667
   CSS: 0.025133162359439732
   HTML: 0.5249073891409658
+webhintio/hint:
+  Batchfile: 0.00011580737999920613
+  CSS: 0.023386952559486324
+  HTML: 0.0057875045064620925
+  Handlebars: 0.007883495320440657
+  JavaScript: 0.052748829342889283
+  Shell: 7.283997752600244e-05
+  TypeScript: 0.9100045709131964
+webiny/webiny-js:
+  CSS: 0.0001363274955847482
+  HTML: 0.003689417820026597
+  JavaScript: 0.2494801964523188
+  SCSS: 0.013590751894512422
+  Smarty: 0.00031311347373013136
+  TypeScript: 0.7327901928638273
+webmachine/webmachine:
+  CSS: 0.0043982906181412795
+  Erlang: 0.9388477930161532
+  HTML: 0.00022934980781066737
+  JavaScript: 0.054933633713841114
+  Makefile: 0.0015909328440537433
 webmozart/assert:
   PHP: 1.0
 webonyx/graphql-php:
@@ -62952,14 +64162,29 @@ webpack-contrib/awesome-webpack:
   CSS: 0.11778963520959755
   HTML: 0.8728639185324685
   JavaScript: 0.009346446257934017
+webpack-contrib/copy-webpack-plugin:
+  JavaScript: 1.0
+webpack-contrib/extract-text-webpack-plugin:
+  CSS: 0.04065734989648033
+  HTML: 0.009057971014492754
+  JavaScript: 0.9502846790890269
 webpack-contrib/json-loader:
   JavaScript: 1.0
+webpack-contrib/npm-install-webpack-plugin:
+  CSS: 0.005019704541951961
+  HTML: 0.0027079985028951366
+  JavaScript: 0.992272296955153
 webpack-contrib/source-map-loader:
   JavaScript: 1.0
 webpack-contrib/webpack-bundle-analyzer:
   CSS: 0.03822097643524351
   HTML: 0.02503336041926033
   JavaScript: 0.9367456631454961
+webpack-contrib/webpack-hot-middleware:
+  HTML: 0.018053831833695314
+  JavaScript: 0.9819461681663046
+webpack-contrib/webpack-serve:
+  JavaScript: 1.0
 webpack/tapable:
   JavaScript: 1.0
 webpack/webpack:
@@ -62970,10 +64195,30 @@ webpack/webpack:
   Less: 5.0631228216425484e-05
   Pug: 3.3242725596642996e-05
   WebAssembly: 0.001625824994949663
+webpack/webpack-cli:
+  CoffeeScript: 0.00031665611146295124
+  HTML: 0.0012924739243385765
+  JavaScript: 0.5623004743379302
+  SCSS: 0.0001260162076230112
+  Shell: 0.0019532512181566737
+  Smarty: 0.013677605304312985
+  TypeScript: 0.4203335228961756
+webpack/webpack-dev-middleware:
+  JavaScript: 1.0
 webpack/webpack-dev-server:
   CSS: 0.002521158757095842
   HTML: 0.0016238431134413004
   JavaScript: 0.9958549981294629
+webpack/webpack.js.org:
+  HTML: 0.001253893135946285
+  Handlebars: 0.0017970542178769335
+  JavaScript: 0.7491809246450674
+  SCSS: 0.24243474844130106
+  Shell: 0.0053333795598083916
+webpackmonitor/webpackmonitor:
+  CSS: 0.1589726355239172
+  HTML: 0.015948183679080994
+  JavaScript: 0.8250791807970018
 webpatser/laravel-uuid:
   PHP: 1.0
 webpro/awesome-dotfiles: {}
@@ -62989,6 +64234,14 @@ webslides/WebSlides:
   CSS: 0.45773275135161945
   HTML: 0.04909230692921978
   JavaScript: 0.49317494171916076
+websocket-client/websocket-client:
+  Python: 0.9988985038671231
+  Shell: 0.001101496132876886
+websocket-rails/websocket-rails:
+  CoffeeScript: 0.14729363693832867
+  HTML: 0.009901073000004186
+  JavaScript: 0.029879052008892126
+  Ruby: 0.812926238052775
 websockets/ws:
   JavaScript: 1.0
 websupport-sk/pecl-memcache:
@@ -62998,6 +64251,11 @@ websupport-sk/pecl-memcache:
   M4: 0.014161236760287153
   PHP: 0.3495621802289001
   Shell: 0.0032165097799698606
+webtorrent/instant.io:
+  JavaScript: 0.7459235102282834
+  Pug: 0.09235102282834272
+  Shell: 0.08795335507461212
+  Stylus: 0.07377211186876173
 webtorrent/webtorrent:
   JavaScript: 0.9970549469649056
   Shell: 0.002945053035094411
@@ -63040,18 +64298,47 @@ wekan/wekan:
   Python: 0.015645577125583603
   Shell: 0.05474666760345916
   Stylus: 0.050428282679420754
+welaika/wordless:
+  Batchfile: 0.0005280357200634161
+  CSS: 0.00636878377066684
+  HTML: 0.020288607758760152
+  JavaScript: 0.0167858413951532
+  Makefile: 0.00039408548225321123
+  PHP: 0.9218092988643349
+  Pug: 0.0008276442229915553
+  Python: 0.003124858446306662
+  Ruby: 0.000688517164396415
+  SCSS: 0.0008884718672145469
+  Shell: 0.00864399650564597
+  XSLT: 0.019651858802213092
 welldone-software/why-did-you-render:
   JavaScript: 0.975940345930948
   TypeScript: 0.024059654069051934
+wellflat/imageprocessing-labs:
+  CSS: 0.0004422620402588534
+  HTML: 0.004464895450554453
+  JavaScript: 0.9950928425091867
+wellingtoncosta/todo-app-kotlin-multiplatform:
+  Kotlin: 0.6187747842313972
+  Ruby: 0.03512071378586424
+  Swift: 0.3461045019827385
 wellle/targets.vim:
   Makefile: 0.01948001894043673
   Vim script: 0.9805199810595633
+wellyshen/react-cool-starter:
+  JavaScript: 0.18628646468436358
+  SCSS: 0.021151861926648533
+  TypeScript: 0.7925616733889879
 wendykan/DeepLearningMovies:
   Python: 1.0
 wentin/ResponsifyJS:
   CSS: 0.23859668267132256
   HTML: 0.48993343518114363
   JavaScript: 0.2714698821475338
+wentin/cssicon:
+  CSS: 0.9038856471702492
+  HTML: 0.08407493019690217
+  JavaScript: 0.0120394226328486
 wenyan-lang/wenyan:
   CSS: 0.00551961212099734
   HTML: 0.01278459115665997
@@ -63093,6 +64380,19 @@ weolar/miniblink49:
   Vim script: 3.0970114776902626e-05
   XS: 1.1772568713381662e-05
   eC: 1.1947017520433393e-05
+wepe/MachineLearning:
+  C: 0.01565482816458725
+  C++: 0.037782131937763495
+  Makefile: 0.00035762316592203815
+  Python: 0.9462054167317272
+wepe/dive-into-ml-system:
+  C++: 0.608014340233607
+  Makefile: 0.006244940441771713
+  Python: 0.38574071932462123
+weprovide/valet-plus:
+  Hack: 0.004023525341636395
+  PHP: 0.9894412731361356
+  Shell: 0.006535201522227988
 wequick/Small:
   CSS: 0.0006692684592779062
   FreeMarker: 0.011851284692480783
@@ -63115,6 +64415,13 @@ wesbos/awesome-uses:
   Arc: 0.00034790717693052617
   CSS: 0.002026469638822137
   JavaScript: 0.9976256231842473
+wesbos/eslint-config-wesbos:
+  JavaScript: 1.0
+wesleyraptor/streamingphish:
+  Dockerfile: 0.008040284765568456
+  Jupyter Notebook: 0.545511169986446
+  Python: 0.4252183334283722
+  Shell: 0.021230211819613383
 wesm/pydata-book:
   Jupyter Notebook: 0.9992458694735298
   Python: 0.0007541305264702107
@@ -63127,7 +64434,20 @@ wet-boew/wet-boew:
   Ruby: 0.00020278603959036532
   SCSS: 0.02787105076336055
   Shell: 0.0003901053473475672
+wetools/wept:
+  AppleScript: 0.0005508809853869487
+  CSS: 0.05687195749958854
+  HTML: 0.003368631569778918
+  JavaScript: 0.9389805986956451
+  Makefile: 0.00022793124960055473
+wetw0rk/Sickle:
+  Python: 1.0
 weui/weui-design: {}
+wexond/desktop:
+  HTML: 0.008936945580033363
+  JavaScript: 0.026094878752514802
+  NSIS: 0.00467341576396297
+  TypeScript: 0.9602947599034889
 whatyouhide/redix:
   Dockerfile: 0.0015208922567906504
   Elixir: 0.9950157425689738
@@ -63140,6 +64460,13 @@ whitedogg13/react-native-nfc-manager:
   JavaScript: 0.45721104508245625
   Objective-C: 0.20776592444094413
   Ruby: 0.0024104436648290017
+whitesmith/rubycritic:
+  CSS: 0.01704296152495002
+  Gherkin: 0.009218436308280085
+  HTML: 0.027703277525158825
+  JavaScript: 0.7383312852622119
+  Ruby: 0.20737390254191257
+  Shell: 0.00033013683748661464
 whomwah/qlstephen:
   C: 0.4150391922412648
   Makefile: 0.047429254683140694
@@ -63156,10 +64483,29 @@ whylabs/whylogs-python:
   Jupyter Notebook: 0.0697691603913013
   Python: 0.9287001196424801
   Shell: 0.0002568794426067985
+whyoleg/ktd:
+  C++: 0.0012128552664141174
+  CMake: 0.0004542555824180008
+  Kotlin: 0.9983328891511679
 whyrusleeping/gx:
   Go: 0.7351888098534396
   Makefile: 0.014027466144714437
   Shell: 0.25078372400184595
+wichtounet/thor-os:
+  Assembly: 0.015978073139596004
+  C: 0.00029661335135541036
+  C++: 0.9650138920177217
+  Groovy: 0.0006150033791394458
+  Makefile: 0.01809641811218743
+wifidog/wifidog-gateway:
+  C: 0.8755886386320052
+  C++: 0.027440500501745967
+  Gnuplot: 0.0006870268237992584
+  M4: 0.012344844188266988
+  Makefile: 0.027867863644109286
+  Objective-C: 0.006845924767857964
+  Python: 0.014451906769919044
+  Shell: 0.03477329467229632
 wifiphisher/wifiphisher:
   CSS: 0.05460954522114437
   HTML: 0.16532051015168547
@@ -63180,6 +64526,14 @@ wikimedia/mediawiki:
   Ruby: 7.035887920298428e-05
   Shell: 0.00032262414824235365
   Vue: 1.2169368377168526e-05
+wikipedia2vec/wikipedia2vec:
+  Python: 0.9589845371327663
+  Shell: 0.0015017621178619134
+  TeX: 0.03951370074937175
+wild-lynx/mpp-lib-dependency:
+  Kotlin: 1.0
+wilkie/statusaur:
+  Ruby: 1.0
 willf/bitset:
   Assembly: 0.02178817605045683
   Go: 0.9782118239495432
@@ -63188,6 +64542,10 @@ willf/bloom:
   Makefile: 0.22144427532555386
 willfarrell/alfred-pkgman-workflow:
   PHP: 1.0
+william3/ocaml-autoconf:
+  Perl: 1.0
+williamSYSU/TextGAN-PyTorch:
+  Python: 1.0
 williamfiset/Algorithms:
   Java: 0.9924123176016139
   JavaScript: 0.007018511984995009
@@ -63211,6 +64569,8 @@ willowtreeapps/Hyperion-iOS:
   Objective-C: 0.9763310367499007
   Ruby: 0.018953661977618583
   Shell: 0.004715301272480721
+willowtreeapps/opentest4k:
+  Kotlin: 1.0
 willowtreeapps/spruce-android:
   Java: 1.0
 willowtreeapps/spruce-ios:
@@ -63218,6 +64578,10 @@ willowtreeapps/spruce-ios:
   Ruby: 0.04257050965759913
   Shell: 0.0011813136351685712
   Swift: 0.9508278199361082
+willpowell8/LocalizationKit_iOS:
+  Objective-C: 0.007034012730662895
+  Ruby: 0.02075483829486273
+  Swift: 0.9722111489744744
 wilmoore/frontend-packagers: {}
 wilsonfreitas/awesome-quant: {}
 winddyhe/knight:
@@ -63290,6 +64654,13 @@ wix/react-native-interactable:
   Python: 0.008537444384011128
   Ruby: 0.015148948311681364
   Shell: 0.0007177694756270452
+wix/react-native-keyboard-input:
+  Java: 0.2916100591884625
+  JavaScript: 0.29395669646674333
+  Objective-C: 0.3308188529028948
+  Objective-C++: 0.034135496926570204
+  Ruby: 0.03121882630133863
+  Starlark: 0.018260068213990517
 wix/react-native-ui-lib:
   Java: 0.06142221141141439
   JavaScript: 0.5312546797422284
@@ -63300,6 +64671,21 @@ wix/react-native-ui-lib:
   Shell: 0.0008389407504300192
   Starlark: 0.0024241581841814163
   TypeScript: 0.31584050859335117
+wiyarmir/kotlin-multiplatform-frontend-template:
+  HTML: 0.0395991028875806
+  JavaScript: 0.05592935239697225
+  Kotlin: 0.9044715447154471
+wiyarmir/kotlin-multiplatform-mobile-template:
+  JavaScript: 0.005044785339236075
+  Kotlin: 0.5490579635539998
+  Ruby: 0.2823020693915371
+  Swift: 0.16359518171522702
+wiyarmir/kotlin-multiplatform-template:
+  HTML: 0.015032592789676733
+  JavaScript: 0.021231874417985897
+  Kotlin: 0.617560196887056
+  Ruby: 0.21934282293468138
+  Swift: 0.12683251297059997
 wjakob/nanogui:
   C: 0.38065445976687834
   C++: 0.5783113870960571
@@ -63307,6 +64693,14 @@ wjakob/nanogui:
   Objective-C++: 0.0013664218864624937
   Python: 0.020428155404554244
   Shell: 0.001739890775170247
+wkeyuan/DWSurvey:
+  CSS: 0.005867702161024772
+  HTML: 0.00019572824565313766
+  Hack: 0.02162698798622898
+  Java: 0.9684425803051787
+  PHP: 0.00011043260778366007
+  Shell: 1.5517960285288134e-05
+  TSQL: 0.0037410507338454047
 wkhtmltopdf/wkhtmltopdf:
   C++: 0.9757116590603145
   QMake: 0.024288340939685456
@@ -63320,16 +64714,34 @@ wlandau/targets:
   R: 0.9955495458879805
   Shell: 0.0002501133326038361
   TeX: 0.004200340779415673
+wlgranados/quadbot:
+  CSS: 0.15258848057603497
+  Dockerfile: 0.0018553664295566461
+  HTML: 0.12425996099409102
+  JavaScript: 0.10108736232635605
+  Python: 0.6160227432928043
+  Shell: 0.004186086381157015
 wmcmahan/react-native-calendar-events:
   Java: 0.5178878596114697
   JavaScript: 0.06873451481054808
   Objective-C: 0.3791405621222403
   Ruby: 0.029486956933419604
   Starlark: 0.004750106522322345
+wmui/essay:
+  CSS: 0.09953934430645726
+  HTML: 0.13106462649174322
+  JavaScript: 0.3207281592629509
+  Vue: 0.4486678699388486
 wojodesign/simplecart-js:
   CSS: 0.03855264513028254
   JavaScript: 0.9602629681760445
   PHP: 0.0011843866936729719
+wojta/hello-kotlin-multiplatform:
+  HTML: 0.02097774534841299
+  Java: 0.02134257570229843
+  JavaScript: 0.017694272163444
+  Kotlin: 0.9043536422230329
+  Shell: 0.03563176456281163
 wojtekmaj/react-pdf:
   CSS: 0.03465788209457141
   HTML: 0.0016346291824982375
@@ -63339,11 +64751,21 @@ wolever/pip2pi:
   HTML: 0.006442400292232591
   Python: 0.9907681067977285
   Shell: 0.0027894929100388535
+wolfcw/libfaketime:
+  C: 0.8883558216502357
+  C++: 0.005508686606210111
+  Makefile: 0.027881416193343927
+  NASL: 0.005398951813257719
+  Shell: 0.07285512373695253
 wolfgangw/digital_cinema_tools:
   C++: 0.01636250401041765
   Python: 0.017355200332156945
   Ruby: 0.9581897446543491
   Shell: 0.008092551003076227
+woliveiras/front-end-career:
+  CSS: 0.40394791604732744
+  HTML: 0.43361674296926095
+  Ruby: 0.1624353409834116
 woltapp/blurhash:
   C: 0.6897093140891617
   CSS: 0.06667565927025022
@@ -63372,6 +64794,10 @@ wooey/Wooey:
   Makefile: 0.0033046007181403944
   Python: 0.7702081977195893
   Shell: 0.0011444050143838062
+wooodenleg/TmiK:
+  Kotlin: 1.0
+wooorm/franc:
+  JavaScript: 1.0
 worker8/TourGuide:
   Kotlin: 0.9858970564800692
   Ruby: 0.014102943519930794
@@ -63381,6 +64807,13 @@ workshopper/learnyounode:
   HTML: 0.989212520906016
   JavaScript: 0.010188929808308173
   Shell: 0.0005985492856758111
+worldbeater/Live.Avalonia:
+  C#: 0.8247410683114162
+  F#: 0.17525893168858372
+worldline-spain/flutter_votlin_app:
+  Dart: 0.9821236133122029
+  Java: 0.005942947702060222
+  Objective-C: 0.011933438985736925
 worldveil/dejavu:
   Dockerfile: 0.004264677293934681
   Python: 0.987011566874028
@@ -63402,6 +64835,19 @@ wp-cli/wp-cli:
   HTML: 0.0008293254096332008
   PHP: 0.7039583282073401
   Shell: 0.007104988544309568
+wpbrasil/odin:
+  CSS: 0.050456011745919474
+  JavaScript: 0.15097864800465835
+  PHP: 0.7985653402494222
+wpcfan/awesome-tutorials:
+  CSS: 0.06515295078974591
+  HTML: 0.09897685092622374
+  JavaScript: 0.08487703956118466
+  TypeScript: 0.7509931587228457
+wprig/wprig:
+  CSS: 0.19624267807824214
+  JavaScript: 0.23018257653603189
+  PHP: 0.573574745385726
 wpscanteam/wpscan:
   Dockerfile: 0.002657468029819923
   HTML: 0.0353617991807464
@@ -63416,6 +64862,11 @@ wren-lang/wren:
   Python: 0.10732135884420148
   Ruby: 0.01577183391904204
   Shell: 0.002202915527788624
+writeas/writefreely-swiftui-multiplatform:
+  Rich Text Format: 0.016458095548671125
+  Swift: 0.9835419044513288
+wshuyi/demo-chinese-text-binary-classification-with-bert:
+  Jupyter Notebook: 1.0
 wtfutil/wtf:
   Dockerfile: 0.0007748955155917765
   Go: 0.9904855612467031
@@ -63429,14 +64880,29 @@ wting/autojump:
   Python: 0.9093581774979528
   Shell: 0.06553811869890322
 wtsxDev/reverse-engineering: {}
+wuba/qa_match:
+  Python: 1.0
 wujunyang/jiaModuleDemo:
   C: 0.00045943605726288646
   HTML: 0.0005796214705777914
   Objective-C: 0.9971466890284375
   Ruby: 0.0018142534437218145
+wulkano/Kap:
+  JavaScript: 1.0
+wupdigital/prefessor:
+  Kotlin: 0.9890252109540819
+  Shell: 0.010974789045918103
 wurmlab/flo:
   Ruby: 0.9447739205983455
   Shell: 0.05522607940165451
+wuseal/Idle:
+  Dart: 0.16465417836085547
+  Kotlin: 0.6313665339512217
+  Ruby: 0.02574897199921676
+  Swift: 0.17823031568870612
+wuseal/JsonToKotlinClass:
+  Kotlin: 0.9953193406375507
+  TSQL: 0.004680659362449319
 wutq/AndroidModuleDemo:
   HTML: 0.0052254155317138255
   Java: 0.9947745844682861
@@ -63447,6 +64913,14 @@ wuyouzhuguli/SpringAll:
   JavaScript: 0.0008594223550631535
   PLpgSQL: 0.0014913867191582333
   TSQL: 0.0020827774956752245
+wwwtyro/cryptico:
+  JavaScript: 0.9989659168264559
+  Shell: 0.0010340831735440993
+wx-chevalier/AI-Series:
+  HTML: 0.0006301302522753214
+  Jupyter Notebook: 0.9993698697477247
+wx-chevalier/DistributedSystem-Series:
+  HTML: 1.0
 wxWidgets/wxWidgets:
   AppleScript: 0.0002054374210266172
   Batchfile: 0.00042822134539193516
@@ -63473,6 +64947,9 @@ wycats/rake-pipeline-web-filters:
   Ruby: 1.0
 wzchen/probability_cheatsheet:
   TeX: 1.0
+wzy6642/Machine-Learning-in-Action-Python3:
+  HTML: 0.73276186617301
+  Python: 0.26723813382698997
 x0rz/EQGRP:
   1C Enterprise: 2.5825959932099247e-05
   CSS: 0.0003122430294568388
@@ -63485,12 +64962,29 @@ x0rz/EQGRP:
   Roff: 0.012223570313417751
   Shell: 0.26798701886819526
   Standard ML: 0.005060991411971588
+xCss/Valine:
+  CSS: 0.16023195845662067
+  HTML: 0.06642662769004076
+  JavaScript: 0.7733414138533385
+xadrianzetx/fullstack.ai:
+  CSS: 0.02477434679334917
+  Dockerfile: 0.004251781472684086
+  HTML: 0.08947743467933492
+  JavaScript: 0.18957244655581948
+  Python: 0.6919239904988124
+xamarin/XamarinCommunityToolkit:
+  C#: 1.0
 xamarin/xamarin-forms-samples:
   ASP.NET: 3.946298335789616e-05
   C#: 0.992777182903108
   CSS: 0.0008372699326255941
   HTML: 0.004360568732514443
   JavaScript: 0.0019855154483940565
+xasset/xasset:
+  C#: 0.9475973150866868
+  ShaderLab: 0.052402684913313236
+xavier-zy/Awesome-pytorch-list-CNVersion:
+  Jupyter Notebook: 1.0
 xavierd/clang_complete:
   Makefile: 0.0026759167492566896
   Python: 0.8858337462834489
@@ -63533,6 +65027,8 @@ xdspacelab/openvslam:
   Dockerfile: 6.59247658331716e-05
   HTML: 0.0007231122752326011
   JavaScript: 0.01865794482014694
+xeneta/LeadQualifier:
+  Python: 1.0
 xerial/sbt-pack:
   Scala: 0.714979713134219
   Shell: 0.285020286865781
@@ -63542,6 +65038,9 @@ xesscorp/skidl:
   Makefile: 0.0001894507720626419
   Python: 0.9997300326498108
   Shell: 9.359770286428141e-06
+xfumihiro/ViewInspector:
+  Groovy: 0.12750872874331215
+  Java: 0.8724912712566878
 xgrommx/awesome-redux: {}
 xhzengAIB/MessageDisplayKit:
   C: 0.002549824675540893
@@ -63560,6 +65059,12 @@ xia-chu/ZLMediaKit:
   Java: 0.0007715141356765204
   Objective-C: 0.0007358120142738823
   Shell: 0.00014840637921026908
+xianrendzw/EasyReport:
+  CSS: 0.015020560327318194
+  Dockerfile: 0.001422158592854841
+  HTML: 0.06146559936145396
+  Java: 0.7208910821312424
+  JavaScript: 0.20120059958713057
 xianyi/OpenBLAS:
   Assembly: 0.26507075419334913
   C: 0.22411387210766642
@@ -63598,6 +65103,8 @@ xiaoxiangyeyu123/HeavenlyModule:
 ximsfei/Android-skin-support:
   Java: 0.9991919823968517
   Shell: 0.0008080176031482952
+xinntao/ESRGAN:
+  Python: 1.0
 xinthink/react-native-material-kit:
   Java: 0.13134057971014493
   JavaScript: 0.010994675314276564
@@ -63605,7 +65112,35 @@ xinthink/react-native-material-kit:
   Ruby: 0.01716010088878213
   Starlark: 0.0030126511329970373
   TypeScript: 0.763061494114821
+xinychen/transdim:
+  Jupyter Notebook: 1.0
+xiongma/chinese-bert-similarity:
+  Python: 1.0
+xiongma/transformer-pointer-generator:
+  Python: 1.0
 xirong/my-git: {}
+xissy/node-stanford-simple-nlp:
+  CoffeeScript: 0.9772017489069331
+  JavaScript: 0.022798251093066834
+xixiaoyao/CS224n-winter-together:
+  Erlang: 6.7550541155144374e-06
+  JavaScript: 0.9489365681096664
+  Jupyter Notebook: 0.03444955886225597
+  Python: 0.016413716514690882
+  Shell: 0.00019340145927121516
+xjwhhh/AndrewNgMachineLearning:
+  MATLAB: 1.0
+xkcoding/spring-boot-demo:
+  Dockerfile: 0.0006388199834626977
+  FreeMarker: 0.0010802592622229336
+  HTML: 0.0838014456802966
+  Java: 0.8780347283348003
+  Lua: 0.0011336053986290044
+  PLpgSQL: 0.009007495132165052
+  TSQL: 0.026303646208423355
+xlvector/hector:
+  Go: 0.9987674095166531
+  Shell: 0.0012325904833468456
 xlwings/xlwings:
   AppleScript: 0.0014761354158768672
   C++: 0.0411754113276215
@@ -63618,16 +65153,35 @@ xmartlabs/XLForm:
   Objective-C: 0.9942327264502997
   Ruby: 0.00468903271277505
   Swift: 0.0010782408369252778
+xmendez/wfuzz:
+  Batchfile: 0.0002453502176493866
+  Dockerfile: 0.0007083498219232292
+  Makefile: 0.0022299168975069253
+  Python: 0.9965195884447962
+  Shell: 0.000296794618124258
 xmonad/xmonad-contrib:
   C: 0.0021309801929423173
   Haskell: 0.9917769178097406
   Shell: 0.00609210199731708
+xo/xo:
+  Go: 0.6702557574998783
+  Python: 0.004312473481765888
+  Shell: 0.14245769254846316
+  Smarty: 0.18297407646989267
 xolox/python-coloredlogs:
   Makefile: 0.016784148838231858
   Python: 0.9696538741635407
   Shell: 0.013561976998227462
+xorum-io/ReKamp:
+  Kotlin: 0.9961286587792612
+  Shell: 0.0038713412207388113
 xoxco/node-slack:
   JavaScript: 1.0
+xpleaf/Blog_mini:
+  CSS: 0.12293608238648453
+  JavaScript: 0.08924847865866632
+  Mako: 0.002191582620537044
+  Python: 0.7856238563343121
 xplodwild/android_packages_apps_Focal:
   Java: 1.0
 xsahil03x/before_after:
@@ -63664,6 +65218,12 @@ xtr4nge/FruityWifi:
   PHP: 0.9819741367193912
   Python: 0.004502534334158618
   Shell: 0.007432474270881351
+xtuhcy/gecco:
+  Java: 1.0
+xuanzebi/BERT-CH-NER:
+  Jupyter Notebook: 0.15567095756088653
+  Python: 0.8428071719900915
+  Shell: 0.0015218704490220227
 xuelongqy/flutter_easyrefresh:
   Dart: 0.9945868464153315
   HTML: 0.0015028125686107753
@@ -63681,6 +65241,15 @@ xunit/xunit:
   PowerShell: 0.0001566806221437636
   Shell: 0.0002293165416327414
   XSLT: 0.010764567209712068
+xupefei/Locale-Emulator:
+  C#: 0.9976837050279913
+  PowerShell: 0.002316294972008717
+xurxodev/integration-testing-kotlin-multiplatform-kata:
+  Kotlin: 1.0
+xurxodev/kotlin-clean-architecture-multiplatform:
+  Kotlin: 0.9199277037535203
+  Ruby: 0.0034887142196628976
+  Swift: 0.07658358202681687
 xuxueli/xxl-job:
   Dockerfile: 0.0006958409310272435
   Java: 0.9993041590689727
@@ -63689,27 +65258,102 @@ xviniette/FlappyLearning:
   JavaScript: 0.9696176008381352
 xxczaki/oji:
   JavaScript: 1.0
+xxg1413/MachineLearning:
+  Batchfile: 0.00010101389209099828
+  HTML: 0.01713858312467495
+  Java: 0.0050933735101255165
+  Jupyter Notebook: 0.9455011286318623
+  Perl: 2.0374351907950824e-05
+  Protocol Buffer: 6.4608142234423e-05
+  Python: 0.023776815059863062
+  R: 0.00012878735074446808
+  Roff: 0.0043738371874815695
+  Scala: 0.0031465505686052685
+  Shell: 0.0006549281804095245
 xxv/android-lifecycle: {}
+xyproto/algernon:
+  Batchfile: 0.0005626203043908749
+  Dockerfile: 0.012229238978511891
+  Go: 0.9422516773394705
+  Lua: 0.007360579809019202
+  Makefile: 0.0022194706496049474
+  Python: 0.007486837121421879
+  Roff: 0.0016856458726041568
+  Ruby: 0.0031342824043822364
+  Shell: 0.02306964752059434
 xz/new.css:
   CSS: 0.31366597571809296
   HTML: 0.686334024281907
+y123456yz/middleware_development_learning:
+  C: 0.997090029572102
+  Makefile: 0.002909970427897924
+y123456yz/reading-code-of-nginx-1.9.2:
+  Assembly: 0.0070632565383220314
+  Batchfile: 0.0007835019773084591
+  C: 0.9091619861385146
+  C++: 0.010253988572609873
+  CSS: 0.0006372797882803545
+  DTrace: 0.00019199540660640673
+  Erlang: 8.224998132830883e-05
+  GDB: 0.0006873860987447266
+  HTML: 0.025129732801008935
+  Lua: 0.03202045345895836
+  Makefile: 0.0025247750494524074
+  Objective-C: 0.0024563121818525027
+  Perl: 0.0019127847669252972
+  Ragel: 0.0005685017866523722
+  Roff: 0.0009804607448570914
+  Shell: 0.000912549361806323
+  Vim script: 0.002954223946215445
+  XS: 0.0016785614005564637
 yabwe/medium-editor:
   CSS: 0.02528201725282017
   JavaScript: 0.9747179827471798
+yacoubb/stock-trading-ml:
+  Python: 1.0
+yacy/yacy_search_server:
+  AspectJ: 0.0007558455707775749
+  Batchfile: 0.000599348568607742
+  CSS: 0.020073245256975843
+  Dockerfile: 0.00019012638278498802
+  HTML: 0.07839738681849438
+  Java: 0.8522816641588313
+  JavaScript: 0.032907086758986695
+  M4: 0.0005686704962220925
+  NASL: 9.397586730793935e-06
+  NSIS: 0.0010945470231163547
+  PHP: 0.0004319783255923625
+  Perl: 0.0005118966458071307
+  Processing: 0.0016486939762090384
+  Rich Text Format: 0.003551899454209909
+  Shell: 0.003713910742808555
+  XSLT: 0.003264302233845199
 yahoo/AppDevKit:
   Objective-C: 0.9945419939731647
   Ruby: 0.00545800602683536
 yahoo/egads:
   Java: 0.9751980980490323
   Python: 0.024801901950967622
+yahoo/fluxible:
+  CSS: 0.03428491664101591
+  JavaScript: 0.965715083358984
 yahoo/gifshot:
   JavaScript: 1.0
+yahoo/gryffin:
+  Go: 0.5322776900815575
+  JavaScript: 0.46255097342804524
+  Makefile: 0.005171336490397264
 yahoo/redislite:
   C: 0.0024873267995944577
   Python: 0.9937411287597161
   Shell: 0.003771544440689422
 yahoo/serialize-javascript:
   JavaScript: 1.0
+yandex/rep:
+  Jupyter Notebook: 0.8871587276633653
+  Makefile: 0.0008368705130220615
+  Python: 0.11043179793533511
+  Shell: 0.0015726038882775246
 yandex/yandex-tank:
   Dockerfile: 0.0033487950492667343
   Python: 0.9760464634821873
@@ -63727,6 +65371,8 @@ yandexdataschool/nlp_course:
   Jupyter Notebook: 0.8766366478630339
   Python: 0.08176053494248699
   Shell: 8.640619021000232e-05
+yangjianxin1/GPT2-chitchat:
+  Python: 1.0
 yangjie10930/EpMedia:
   C: 0.9366085321313778
   Java: 0.06062995575415079
@@ -63751,8 +65397,23 @@ yangyangwithgnu/hardseed:
   CMake: 0.011081731802743024
   Python: 0.02736575089212778
 yanirs/established-remote: {}
+yanlipnican/reveal-engine:
+  C: 0.0016015659756206068
+  C++: 0.9127324495061838
+  CMake: 0.03882907732004627
+  GLSL: 0.022991369338909155
+  Shell: 0.023845537859240144
+yannickcr/eslint-plugin-react:
+  JavaScript: 1.0
+yanshengjia/ml-road:
+  Python: 1.0
 yanzhenjie/AndServer:
   Java: 1.0
+yao8839836/text_gcn:
+  Python: 1.0
+yaoguangluo/Deta_Parser:
+  Java: 0.9997251679792265
+  PureBasic: 0.00027483202077351
 yaoweibin/nginx_tcp_proxy_module:
   C: 0.6601605862282667
   Makefile: 0.00044947799260404393
@@ -63765,10 +65426,24 @@ yaoweibin/ngx_http_substitutions_filter_module:
   Perl: 0.8207279194575843
   Perl 6: 0.10817469598439754
   Shell: 0.002036206603712807
+yapstudios/YapAnimator:
+  Ruby: 0.019285825251337135
+  Swift: 0.9807141747486628
 yargs/yargs:
   HTML: 0.002969938292116522
   JavaScript: 0.6940456679639027
   TypeScript: 0.3029843937439808
+yarnpkg/berry:
+  Batchfile: 1.423621055522896e-05
+  C: 0.0004932428245311681
+  CSS: 0.00028639905940519437
+  Dockerfile: 0.0006100634934990763
+  HTML: 0.0003006352699604233
+  JavaScript: 0.2338104976141786
+  PowerShell: 7.327461315191377e-05
+  Prolog: 0.0021228702210297303
+  Shell: 0.013350634516278688
+  TypeScript: 0.74893814617741
 yarnpkg/website:
   HTML: 0.19482404388064764
   JavaScript: 0.5544549789832809
@@ -63786,6 +65461,34 @@ yarolegovich/DiscreteScrollView:
   Java: 1.0
 yaronn/blessed-contrib:
   JavaScript: 1.0
+yaserkl/RLSeq2Seq:
+  Python: 1.0
+yasiralijaved/kotlin-mutliplatform:
+  Kotlin: 0.6449973247726056
+  Swift: 0.3550026752273943
+yasm/yasm:
+  Assembly: 0.2490930166425867
+  Batchfile: 0.0024949215307966278
+  C: 0.5434752669304622
+  C++: 0.024413420335725175
+  CMake: 0.006759177906459252
+  Lex: 0.0033025458443690947
+  M4: 0.03140850955483323
+  Makefile: 0.019897100161142305
+  Perl: 0.00039467325008001855
+  Python: 0.09727452298094984
+  Roff: 0.011704389098091924
+  Shell: 0.00918226337989075
+  TeX: 0.000521555280396535
+  sed: 7.863710421626649e-05
+yasserg/crawler4j:
+  CSS: 0.0018227767394149118
+  Groovy: 0.1436445765321994
+  HTML: 0.02415629089357195
+  Java: 0.8295947985304666
+  Shell: 0.0007815573043471554
+yasutakatou/doukie:
+  Go: 1.0
 yathit/ydn-db:
   C++: 5.2495842217603084e-05
   CSS: 0.002724199131249658
@@ -63794,6 +65497,8 @@ yathit/ydn-db:
   JavaScript: 0.9210183299843965
   Shell: 0.0002574530134288832
   TypeScript: 0.004723508866771137
+yatoooon/AndroidScreenAdaptation:
+  Java: 1.0
 yaysummeriscoming/DALI_pytorch_demo:
   Python: 1.0
 ybq/Android-SpinKit:
@@ -63804,6 +65509,18 @@ ycm-core/YouCompleteMe:
   Python: 0.7674340891967126
   Shell: 0.009154847434971896
   Vim script: 0.21909844928737834
+ycm-core/ycmd:
+  Batchfile: 0.00011465952102536367
+  C: 0.02742296026782306
+  C++: 0.7165015015001512
+  CMake: 0.00815107790291603
+  Go: 6.447911888249863e-05
+  Java: 1.65469426420917e-05
+  Objective-C: 1.0791484331798934e-05
+  PHP: 0.07675452223895601
+  Python: 0.16982855658771107
+  Shell: 0.0005841790184947156
+  Starlark: 0.000550725417066139
 ydcss/vue-ydui:
   CSS: 0.20230410113308053
   HTML: 0.001314623814609587
@@ -63822,6 +65539,9 @@ yedf/handy:
 yemount/pose-animator:
   HTML: 0.07890872303625625
   JavaScript: 0.9210912769637437
+yeoman/generator:
+  JavaScript: 0.9918595924022863
+  Shell: 0.008140407597713758
 yeoman/generator-node:
   JavaScript: 1.0
 yeoman/generator-webapp:
@@ -63831,6 +65551,9 @@ yeoman/generator-webapp:
 yeoman/insight:
   JavaScript: 1.0
 yeoman/yeoman: {}
+yepher/CoreDataUtility:
+  C: 0.03256805177164893
+  Objective-C: 0.9674319482283511
 yesodweb/yesod:
   CSS: 0.00021899343907494015
   Dockerfile: 0.001263651330878371
@@ -63838,6 +65561,14 @@ yesodweb/yesod:
   Haskell: 0.9956822780052657
   JavaScript: 4.537701890742003e-05
   Shell: 0.0005948335304603103
+yew1eb/machine-learning:
+  C: 0.005898518158629904
+  C++: 0.014235773715535041
+  Java: 0.021204679339244505
+  MATLAB: 0.04208672415887283
+  Makefile: 0.00013474735819263937
+  Python: 0.8624210494351998
+  R: 0.054018507834325276
 yewstack/yew:
   CSS: 0.002395096437151299
   GLSL: 0.0003415633844051918
@@ -63845,6 +65576,12 @@ yewstack/yew:
   JavaScript: 0.012812260568220279
   Rust: 0.9787483207332089
   Shell: 0.0037374716834610647
+yezihaohao/react-admin:
+  HTML: 0.002633111811273796
+  JavaScript: 0.08546029812809447
+  Less: 0.39831078397627684
+  Shell: 1.191453308268686e-05
+  TypeScript: 0.5135838915512722
 yhatt/marp: {}
 yhirose/cpp-httplib:
   C++: 0.9808361687462643
@@ -63854,9 +65591,16 @@ yhirose/cpp-httplib:
   Makefile: 0.0032180748204054203
   Python: 0.0006673641041698315
   Shell: 3.383257386944474e-05
+yhyap/machine-learning-coursera:
+  MATLAB: 1.0
 yidongnan/grpc-spring-boot-starter:
   Java: 0.9910054439029194
   Shell: 0.00899455609708056
+yidongnan/spring-cloud-netflix-example:
+  Batchfile: 0.010829262550762168
+  Dockerfile: 0.151786239773998
+  Java: 0.8223176976046143
+  Shell: 0.015066800070625625
 yifeikong/reverse-interview-zh: {}
 yigit/android-priority-jobqueue:
   Java: 1.0
@@ -63889,21 +65633,90 @@ yinghuocho/firefly-proxy:
   NSIS: 0.0008464312181309383
   Python: 0.05047312767534206
   Shell: 0.0001805683062526961
+yining1023/machine-learning-for-the-web:
+  C++: 0.0001218235545970941
+  CSS: 9.786372633704298e-05
+  HTML: 0.0021996659871813123
+  JavaScript: 0.9975727540825754
+  Python: 7.892649309193306e-06
 yipianfengye/android-zxingLibrary:
   Java: 1.0
 yjhjstz/deep-into-node: {}
+yjjnls/awesome-blockchain:
+  C++: 0.03437962040976434
+  Go: 0.6830662925077698
+  JavaScript: 0.2603912072659244
+  Solidity: 0.022162879816541445
+ymarkovitch/libpcomn:
+  C: 0.18142777236799482
+  C++: 0.7912669510051856
+  CMake: 0.010690771929299708
+  Makefile: 0.0011375665981609136
+  Objective-C: 0.0002182440768189724
+  Perl: 0.0009369782219385322
+  Python: 0.0018820486399838351
+  Roff: 0.005865616087089686
+  SWIG: 0.004964930138599702
+  Scilab: 1.765570059659103e-05
+  Shell: 0.0006917601580969901
+  Tcl: 0.0008997050762346178
+ymcui/Chinese-BERT-wwm:
+  Python: 1.0
+ymcui/Chinese-ELECTRA:
+  Python: 1.0
+ymcui/Chinese-XLNet:
+  Python: 1.0
+ynezz/librs232:
+  C: 0.8288426636883988
+  C++: 0.04579086974731258
+  Lua: 0.10464127524018631
+  Makefile: 0.018339192567867705
+  Shell: 0.002385998756234691
+ynqa/wego:
+  Dockerfile: 0.0028184782181718193
+  Go: 0.9500628510822171
+  Shell: 0.04711867069961111
 yoavlt/LiquidFloatingActionButton:
   Ruby: 0.052036767291174846
   Swift: 0.9479632327088252
+yoctopuce-examples/MultiPlatformCSharp:
+  Batchfile: 0.00027415712598453603
+  C#: 0.9997258428740154
+yogthos/Selmer:
+  Clojure: 0.9553556126820908
+  HTML: 0.04464438731790917
+yohasebe/engtagger:
+  Ruby: 1.0
+yohasebe/wp2txt:
+  Ruby: 1.0
 yokolet/clementine:
   Clojure: 0.9653523517315664
   JavaScript: 0.0005075562228677743
   Racket: 0.0025704213859059307
   Ruby: 0.015118973789861932
   Shell: 0.016450696869797957
+yole/kxhtml-isomorphic:
+  CSS: 0.011714700393945676
+  Kotlin: 0.9882852996060543
 yonaskolb/Mint:
   Makefile: 0.015381397294659043
   Swift: 0.984618602705341
+yongzhuo/Keras-TextClassification:
+  Python: 1.0
+yongzhuo/Macropodus:
+  Python: 1.0
+yongzhuo/nlp_xiaojiang:
+  Python: 1.0
+yooper/php-text-analysis:
+  PHP: 0.9993206464049457
+  Shell: 0.0006793535950543058
+yoshinorim/mha4mysql-manager:
+  Perl: 0.8106903032557411
+  Shell: 0.1893096967442589
+yoshoku/rumale:
+  C: 0.020674502647344852
+  Perl: 0.00023903051841244442
+  Ruby: 0.9790864668342427
 you-dont-need/You-Dont-Need-JavaScript:
   CSS: 1.0
 you-dont-need/You-Dont-Need-Lodash-Underscore:
@@ -63918,6 +65731,9 @@ youngsoft/MyLinearLayout:
   HTML: 0.0023294760870968705
   Objective-C: 0.9911152288475381
   Ruby: 0.002261543071940581
+youtplayer/youtplayer.github.io:
+  CSS: 0.3348537005163511
+  HTML: 0.6651462994836489
 youtube/api-samples:
   C#: 0.03924229025080661
   CSS: 0.0013635329637122556
@@ -63941,11 +65757,71 @@ youtube/youtube-ios-player-helper:
   HTML: 0.02775673057556372
   Objective-C: 0.8925505692335728
   Ruby: 0.07969270019086348
+ypeleg/HungaBunga:
+  Python: 1.0
+ysbaddaden/prax:
+  C: 0.05261687618108619
+  HTML: 0.020524196861391834
+  Makefile: 0.005241968613918331
+  Ruby: 0.7113466436611617
+  Shell: 0.21027031468244187
+ysc/APDPlat:
+  Batchfile: 0.0015295696982726482
+  CSS: 0.19909792524547243
+  FreeMarker: 0.012340424420775572
+  HTML: 0.006028338237994894
+  Java: 0.3605635617156132
+  JavaScript: 0.41810172624938313
+  Shell: 0.002338454432488153
+ysc/QuestionAnsweringSystem:
+  Batchfile: 0.0002996904168897372
+  Java: 0.9963484322990619
+  Shell: 0.0033518772840483227
 ysh329/deep-learning-model-convertor: {}
+yshrsmz/BuildKonfig:
+  Kotlin: 1.0
+yshrsmz/kgql:
+  Kotlin: 0.9978889249756414
+  Shell: 0.002111075024358558
+yshrsmz/twitter4kt:
+  Kotlin: 0.9991538518137002
+  Shell: 0.0008461481862997572
+ytakzk/Fusuma:
+  Objective-C: 0.005638631124770968
+  Ruby: 0.009976948992257225
+  Swift: 0.9843844198829718
 ytisf/PyExfil:
   Python: 1.0
 ytisf/theZoo:
   Python: 1.0
+yu-tou/js2image:
+  HTML: 0.00016291981267841982
+  JavaScript: 0.9998370801873215
+yuanguangxin/LeetCode:
+  Java: 1.0
+yuantiku/fairseq-gec:
+  C++: 0.00440233021163631
+  Lua: 0.0054445345721800265
+  Python: 0.98101049578448
+  Shell: 0.00914263943170366
+yuantiku/ytk-learn:
+  Batchfile: 0.0024885553309689076
+  Java: 0.9768259998531932
+  Python: 0.0032548155335981824
+  Shell: 0.017430629282239773
+yuanxiaosc/Machine-Learning-Book:
+  Jupyter Notebook: 1.0
+yudai/gotty:
+  CSS: 0.010004656822244589
+  Go: 0.7592422899547837
+  HTML: 0.007375805555138277
+  JavaScript: 0.00968919467019183
+  Makefile: 0.039027174811098256
+  TypeScript: 0.17466087818654327
+yued-fe/lulu:
+  CSS: 0.1661151098207347
+  JavaScript: 0.7759609575882549
+  SCSS: 0.05792393259101037
 yugabyte/yugabyte-db:
   Assembly: 4.1453181196476434e-05
   Batchfile: 0.000129679262707752
@@ -63977,6 +65853,9 @@ yugabyte/yugabyte-db:
   XSLT: 0.0007676011889610319
   Yacc: 0.011609099878513612
   sed: 1.5629055452637825e-05
+yuhaozhang/tacred-relation:
+  Python: 0.9791479557967901
+  Shell: 0.02085204420320981
 yui/yui3:
   CSS: 0.019075160286946297
   JavaScript: 0.980400554161436
@@ -63996,7 +65875,23 @@ yuin/gopher-lua:
   Python: 0.004366276922282851
   Yacc: 0.02241204944038427
 yujiangshui/A-Programmers-Guide-to-English: {}
+yuki-kimoto/gitprep:
+  CSS: 0.04841839504793594
+  Dockerfile: 0.0013811869668892268
+  HTML: 0.003913007280228675
+  JavaScript: 0.004404001101533965
+  Perl: 0.9008213828520764
+  Perl 6: 0.039981840344464184
+  Shell: 0.0010801864068716363
+yupswing/MimicRush:
+  Haxe: 0.9452004650962491
+  NSIS: 0.03806898927694759
+  Shell: 0.016730545626803324
 yuuwill/1024app-android: {}
+yuweiguocn/GreenDaoUpgradeHelper:
+  Java: 1.0
+yzhao062/combo:
+  Python: 1.0
 yzprofile/ngx_http_dyups_module:
   C: 0.7854088265480671
   Perl: 0.2071644429239366
@@ -64006,9 +65901,30 @@ z-song/laravel-admin:
   CSS: 0.10382860014703152
   JavaScript: 0.041429973347986614
   PHP: 0.74869919268678
+z0w0/helm:
+  Haskell: 1.0
 z3t0/Arduino-IRremote:
   C: 0.23659225601457487
   C++: 0.7634077439854251
+z88dk/z88dk:
+  Assembly: 0.42025308678768564
+  Awk: 0.0019015151468872234
+  Batchfile: 0.0009446705257821594
+  C: 0.39483329212758417
+  C++: 0.013426892637656947
+  Dockerfile: 2.4762720773291554e-05
+  HTML: 0.017283811848004108
+  M4: 0.06514312590798461
+  Makefile: 0.005344340577254584
+  NASL: 0.0001653757034903524
+  Objective-C: 0.02707376986875627
+  Perl: 0.027323273370750422
+  Prolog: 0.00019118565826991532
+  Python: 2.3584582516236273e-05
+  Ragel: 0.0005434926318797056
+  Raku: 0.000155645154182081
+  Roff: 0.025194486627127182
+  Shell: 0.00017368812341513133
 zaach/jison:
   C#: 0.21774954600654953
   CSS: 0.007653032450662285
@@ -64018,8 +65934,16 @@ zaach/jison:
   PHP: 0.03125881198467514
   Ruby: 0.003109338165904058
   Yacc: 0.04339162245791866
+zadvorsky/three.bas:
+  GLSL: 0.15107099850388625
+  HTML: 0.027088173403233065
+  JavaScript: 0.8218408280928807
 zaengle/pipeline:
   PHP: 1.0
+zaidalyafeai/Notebooks:
+  Jupyter Notebook: 1.0
+zakwilson/imagesieve:
+  Clojure: 1.0
 zalando/SwiftMonkey:
   Ruby: 0.028245940286705812
   Swift: 0.9717540597132942
@@ -64031,6 +65955,15 @@ zalo/MathUtilities:
   GLSL: 0.05159731937713107
   Python: 0.012702486893818242
   ShaderLab: 0.05856800645911783
+zammad/zammad:
+  CSS: 0.0034532485006862346
+  CoffeeScript: 0.16333502459817492
+  HTML: 0.01987348440968122
+  JavaScript: 0.16920506062361276
+  PHP: 0.0007239324451947873
+  Ruby: 0.6157530468959304
+  SCSS: 0.021990184677140534
+  Shell: 0.0056660178495792045
 zaphoyd/websocketpp:
   C++: 0.9607419856022482
   CMake: 0.01735498567033729
@@ -64046,11 +65979,21 @@ zaproxy/zaproxy:
   Python: 0.008652279909614428
   Shell: 0.00019996130850701466
   XSLT: 0.0014339699831040346
+zaps166/QMPlay2:
+  C++: 0.9703459631830297
+  CMake: 0.02204161522080754
+  GLSL: 0.0044708756424426685
+  JavaScript: 0.0004630562197565319
+  Objective-C++: 0.0020814916324593015
+  Roff: 0.0005399423388896601
+  Shell: 5.705576261462903e-05
 zardus/ctf-tools:
   Dockerfile: 0.020409537922672773
   Makefile: 0.010642597332614846
   Python: 0.05006062238986932
   Shell: 0.9188872423548431
+zboxfs/zbox:
+  Rust: 1.0
 zbrateam/Zebra:
   C: 0.034612469661294006
   HTML: 0.0011507421654691362
@@ -64069,6 +66012,13 @@ zdharma/zinit:
   Vim script: 1.3869721704034009e-05
 zebrafishlabs/nginx-statsd:
   C: 1.0
+zedapp/zed:
+  CSS: 0.08376538337339888
+  HTML: 0.08115215337327927
+  JavaScript: 0.8289044466769522
+  Makefile: 0.004472241158671499
+  Nix: 0.0009829512157200435
+  Shell: 0.0007228242019781613
 zedoul/ZDStickerView:
   Objective-C: 0.9758383985001058
   Ruby: 0.024161601499894162
@@ -64084,19 +66034,31 @@ zeek/zeek:
   Shell: 0.004268459419622908
   Yacc: 0.0075185676344720525
   Zeek: 0.45428478868228483
+zeffy/wufuc:
+  Batchfile: 0.010036105663249932
+  C: 0.9879471578023651
+  C++: 0.0008193818160672845
+  Objective-C: 0.001197354718317677
 zekunyan/TTGTagCollectionView:
   Objective-C: 0.9852457532510636
   Ruby: 0.014754246748936427
+zelenin-boris/kit:
+  Kotlin: 1.0
 zenangst/Hue:
   Ruby: 0.0300056381704137
   Swift: 0.9699943618295863
 zenazn/goji:
   Go: 1.0
+zendframework/zend-code:
+  PHP: 1.0
 zendframework/zend-developer-tools:
   CSS: 0.04147965980120914
   HTML: 0.2381254909997609
   JavaScript: 0.03166308023363049
   PHP: 0.6887317689653994
+zendframework/zend-eventmanager:
+  Makefile: 0.004579295332708094
+  PHP: 0.9954207046672919
 zendframework/zendframework: {}
 zengabor/zenfonts:
   JavaScript: 1.0
@@ -64113,6 +66075,9 @@ zensh/jsgen:
   HTML: 0.034569314511542465
   JavaScript: 0.9084216760126603
 zer0n/deepframeworks: {}
+zero-to-mastery/resources:
+  Ruby: 0.4861111111111111
+  Shell: 0.5138888888888888
 zeroc-ice/ice:
   C: 0.0009586109516479014
   C#: 0.12492215771796764
@@ -64177,9 +66142,42 @@ zeux/meshoptimizer:
   Python: 0.001752778096001833
 zeyangli/Jenkinsdocs: {}
 zgabievi/awesome-adonisjs: {}
+zhang17173/Event-Extraction:
+  Perl: 0.08582895955541833
+  Python: 0.9141710404445816
+zhangdaiscott/jeecg:
+  ASP: 0.00023738808770707126
+  C#: 0.00019252667131292554
+  CSS: 0.02055343376400579
+  FreeMarker: 0.13075378759448883
+  HTML: 8.676352329384013e-05
+  Java: 0.8469398809842921
+  ObjectScript: 0.0006329491234653943
+  PHP: 0.0001994746153433764
+  Python: 0.00011279686913633195
+  TSQL: 0.0001123679837023535
+  Visual Basic .NET: 0.0001786307832520238
 zhanghai/Douya:
   Java: 0.9993309154834126
   Shell: 0.0006690845165874636
+zhanglei-workspace/shopping-management-system:
+  CSS: 0.34333622722618035
+  Java: 0.5785239899560617
+  JavaScript: 0.05913205035685284
+  PLSQL: 0.01900773246090517
+zhanlaoban/EDA_NLP_for_Chinese:
+  Python: 1.0
+zhanlaoban/Transformers_for_Text_Classification:
+  Python: 0.999636047980351
+  Shell: 0.0003639520196490294
+zhanzecheng/SOHU_competition:
+  C++: 0.00011108650976077596
+  Cuda: 0.003853027982387462
+  Jupyter Notebook: 0.7987957004955524
+  Python: 0.19677377384460518
+  Shell: 0.0004664111676942169
+zhanzecheng/Time_NLP:
+  Python: 1.0
 zhaoolee/ChromeAppHeroes:
   CSS: 0.00013931109928188795
   JavaScript: 0.9890281511070833
@@ -64190,23 +66188,100 @@ zhaoweiho/SecurityManageFramwork:
   HTML: 0.29051611099327024
   JavaScript: 0.013662045160917102
   Python: 0.6699608553963632
+zhaozhengcoder/Machine-Learning:
+  Python: 1.0
+zhaozhiyong19890102/Python-Machine-Learning-Algorithm:
+  Python: 1.0
 zhedahht/CodingInterviewChinese2:
   C: 0.006904111526595416
   C#: 0.014653925147997867
   C++: 0.9784419633254067
+zhedongzheng/tensorflow-nlp:
+  CSS: 3.0287726762195516e-05
+  HTML: 0.0029101900267032364
+  Java: 0.00037505416034473103
+  JavaScript: 0.002485763329311944
+  Jupyter Notebook: 0.981069418008489
+  Python: 0.013129286748388917
 zhegexiaohuozi/SeimiCrawler:
   Java: 1.0
+zhenghaoz/gorse:
+  Assembly: 0.034717478619634416
+  C: 0.008750239077570426
+  Go: 0.915106970135796
+  Python: 0.020909041230634716
+  Shell: 0.02051627093636438
+zhengyima/kg-baseline-pytorch:
+  Python: 1.0
 zhihu/Matisse:
   Java: 1.0
+zhihu/griffith:
+  CSS: 0.015984336428069203
+  HTML: 0.009386852248174208
+  JavaScript: 0.9746288113237566
+zhimengzhe/iBarn:
+  ActionScript: 0.0016197552164945444
+  CSS: 0.05983445903043938
+  CoffeeScript: 0.008163943308364726
+  Go: 0.0006803539462099785
+  HTML: 0.39768963434699955
+  Hack: 4.297185657575315e-05
+  JavaScript: 0.46803861751024106
+  Makefile: 4.0235441180599056e-05
+  PHP: 0.06134354144650769
+  Python: 0.0005242769199678562
+  Shell: 0.0007510953516106288
+  TSQL: 0.0012711156254082453
 zhisheng17/flink-learning:
   Java: 0.9916456909353245
   TSQL: 0.008354309064675464
+zhongkaifu/CRFSharp:
+  C#: 1.0
+zhongkaifu/RNNSharp:
+  C#: 1.0
 zhongsp/TypeScript:
   TypeScript: 1.0
+zhourunlai/learning:
+  C++: 0.003213410029666439
+  CMake: 0.000160927864955028
+  HTML: 0.0007540749720987719
+  Jupyter Notebook: 0.9510285758232149
+  OpenEdge ABL: 0.00014866525247962136
+  Python: 0.0430982383621752
+  Shell: 0.0015961076954100284
+zhouxc/Stanford-Machine-Learning-Course:
+  MATLAB: 0.7244310965679024
+  Python: 0.27285165713602666
+  Shell: 0.002717246296070986
+zhpmatrix/BERTem:
+  Dockerfile: 0.00019354768985603785
+  Jupyter Notebook: 0.5262335717801573
+  Python: 0.47357288052998664
+zhuchaowe/EasyIOS:
+  Objective-C: 0.771928064013521
+  Objective-C++: 0.22398130298148783
+  Ruby: 0.004090633004991153
+zhufz/nlp_research:
+  Dockerfile: 0.0015525715382319076
+  Jupyter Notebook: 0.08860719007207131
+  Python: 0.9083609642202226
+  Shell: 0.001479274169474178
 zhuhaow/NEKit:
   Objective-C: 0.0020349621930129008
   Ruby: 0.012719996914926122
   Swift: 0.985245040892061
+zhukov/webogram:
+  C: 0.050516850010876524
+  C++: 0.005735677091334544
+  CSS: 0.10111727106143824
+  Dockerfile: 7.926958911315151e-05
+  HTML: 0.2075873901133002
+  JavaScript: 0.6274261717458605
+  Makefile: 0.0015847772893241685
+  PHP: 0.0006759422327478035
+  Shell: 0.005276650866004899
+zhuzilin/NP_ML:
+  Python: 1.0
 zhzy0077/pipehub:
   CSS: 0.015218014267831018
   Dockerfile: 0.009411338853445545
@@ -64231,12 +66306,22 @@ ziglang/zig:
   Python: 4.9404447931265874e-05
   Shell: 0.0006215977812442907
   Zig: 0.8536655483686729
+zihangdai/xlnet:
+  Jupyter Notebook: 0.018429379117174127
+  Python: 0.9691996472846102
+  Shell: 0.012370973598215675
 ziishaned/learn-regex: {}
 zimfw/zimfw:
   HTML: 0.4986663179916318
   Makefile: 0.002615062761506276
   Shell: 0.49871861924686195
+zimmed/podplay:
+  CSS: 0.10348513011152416
+  HTML: 0.042309479553903344
+  JavaScript: 0.8542053903345725
 zingchart/awesome-charting: {}
+zingchart/zingtouch:
+  JavaScript: 1.0
 zino-app/graphql-flutter:
   Dart: 0.9860950217113474
   Java: 0.0013490183182487425
@@ -64254,28 +66339,82 @@ zio/zio-query:
   Scala: 1.0
 zircote/swagger-php:
   PHP: 1.0
+ziutek/emgo:
+  Assembly: 0.0001015528574641133
+  C: 0.8203007890356944
+  C++: 8.971125474319591e-05
+  Go: 0.17935840115084212
+  Shell: 0.00014954570125622733
+ziweipolaris/atec2018-nlp:
+  Python: 1.0
 zixun/GodEye:
   Objective-C: 0.003130790792264003
   Ruby: 0.015754299820046426
   Swift: 0.9811149093876895
+ziyan/spider:
+  CoffeeScript: 0.026220820599518826
+  Python: 0.15901228948566226
+  TeX: 0.8147668899148189
+zjhuang22/maskscoring_rcnn:
+  C++: 0.0582372097771075
+  Cuda: 0.0819753102680703
+  Dockerfile: 0.004998534685154879
+  Python: 0.8547889452696673
 zjns/PureNeteaseCloudMusic-Xposed:
   Java: 1.0
 zjudmd1015/Mini-3D-Scanner:
   C++: 0.22926925349615915
   CMake: 0.014126890333311447
   Python: 0.7566038561705294
+zk00006/OpenTLD:
+  C: 0.0045742620120436265
+  C++: 0.2996483766370489
+  M: 0.10792415884111677
+  MATLAB: 0.5312144691961089
+  Objective-C: 0.05663873331368173
 zkat/cipm:
   JavaScript: 1.0
 zkat/npx:
   JavaScript: 0.9886860506660768
   Makefile: 0.011313949333923132
+zkywsg/Daily-DeepLearning:
+  Jupyter Notebook: 0.9998855323672112
+  Python: 0.00011446763278874976
 zladovan/monorepo:
   Groovy: 0.01814465250088326
   Java: 0.02334325947610155
   Shell: 0.9585120880230152
+zlatnaspirala/visualjs:
+  Batchfile: 4.111959192364464e-05
+  CSS: 0.003922299059073235
+  HTML: 0.017267041042665347
+  JavaScript: 0.9589520220426513
+  Python: 0.019287426160050625
+  Rich Text Format: 6.460132271208253e-05
+  TSQL: 0.0004654907809237394
+zle1992/atec:
+  Jupyter Notebook: 0.6134561218093437
+  Python: 0.3779566237800128
+  Shell: 0.008587254410643431
+zlib-ng/zlib-ng:
+  C: 0.8362405870746817
+  C++: 0.0022698968301405518
+  CMake: 0.06894949054759388
+  Makefile: 0.023527565603116887
+  Objective-C: 0.053921794008112055
+  Roff: 0.004474825234935821
+  Shell: 0.01061584070141911
 zloirock/core-js:
   HTML: 0.0014864158650381458
   JavaScript: 0.9985135841349618
+zlotus/notes-LSJU-machine-learning:
+  Jupyter Notebook: 1.0
+zmister2016/MrDoc:
+  CSS: 0.06589832208833313
+  HTML: 0.16511153555662178
+  JavaScript: 0.665800526169591
+  Python: 0.10147962240674378
+  XSLT: 0.0017099937787103336
 zmoazeni/csscss:
   Ruby: 0.9984613644077385
   Shell: 0.0015386355922615681
@@ -64295,6 +66434,14 @@ znxlwm/pytorch-generative-model-collections:
 zofe/rapyd-laravel:
   HTML: 0.09813228356750907
   PHP: 0.901867716432491
+zompi2/XPlugin:
+  C#: 0.139706795875264
+  C++: 0.8240775251584048
+  Shell: 0.036215678966331225
+zonetrooper32/VDCNN:
+  Python: 1.0
+zotroneneis/machine_learning_basics:
+  Jupyter Notebook: 1.0
 zouhir/lqip:
   JavaScript: 1.0
 zplug/zplug:
@@ -64304,6 +66451,13 @@ zplug/zplug:
   Perl: 0.0003555143365020481
   Shell: 0.932287399850581
   Turing: 0.0314552902078986
+zqhZY/semanaly:
+  Python: 1.0
+zquestz/s:
+  Dockerfile: 0.0027664912839140935
+  Go: 0.9688477165914581
+  Makefile: 0.005097646375943229
+  Shell: 0.023288145748684628
 zricethezav/gitleaks:
   Dockerfile: 0.005132947976878612
   Go: 0.9679722543352601
@@ -64316,11 +66470,25 @@ zsh-users/antigen:
   Perl: 0.17643068219710473
   Perl 6: 0.029659993790891008
   Shell: 0.7395451252745231
+zsh-users/zsh:
+  Awk: 0.0031591367923236
+  C: 0.6784057317926873
+  D: 0.00012035706559271132
+  M4: 0.02395748013494351
+  Makefile: 0.0040271436358603595
+  Objective-C: 0.0051993496561699055
+  Perl: 0.005485788135665275
+  Roff: 0.24024611791780387
+  Shell: 0.038690923244501504
+  Vim script: 0.0006597910094972494
+  sed: 4.818061495469605e-05
 zsh-users/zsh-autosuggestions:
   Dockerfile: 0.00660201461120818
   Makefile: 0.007997467077875629
   Ruby: 0.36294663273801847
   Shell: 0.6224538855728977
+ztellman/lamina:
+  Clojure: 1.0
 zuck/opengl-examples:
   CMake: 1.0
 zuiidea/antd-admin:
@@ -64345,6 +66513,11 @@ zurb/foundation-apps:
   HTML: 0.026324964225315467
   JavaScript: 0.08670742812540654
   Ruby: 0.0008585924287758554
+zussel/matador:
+  C: 0.00021003671076422922
+  C++: 0.9622165265407258
+  CMake: 0.03576103301533572
+  Shell: 0.001812403733174233
 zweilove/css_splitter:
   CSS: 0.9647380782155175
   HTML: 0.0028022073916968548
@@ -64353,6 +66526,10 @@ zxing/zxing:
   CSS: 0.0013731607517804098
   HTML: 0.03957907944010063
   Java: 0.959047759808119
+zxlie/FeHelper:
+  CSS: 0.053262674422743315
+  HTML: 0.0788769163869558
+  JavaScript: 0.8678604091903008
 zy4kamu/Coda:
   Batchfile: 1.680823401768058e-06
   C: 0.23094499533431437
@@ -64369,9 +66546,15 @@ zyedidia/micro:
   Makefile: 0.005749092898534549
   Roff: 0.005589904139090721
   Shell: 0.015406544304793412
+zyfra/ebonite:
+  HTML: 0.0014494415712001901
+  Python: 0.9985505584287998
 zylo117/Yet-Another-EfficientDet-Pytorch:
   Jupyter Notebook: 0.290674962019822
   Python: 0.709325037980178
+zyxue/stanford-cs229:
+  Jupyter Notebook: 0.9937286158034734
+  Python: 0.0062713841965265985
 zzmp/juliusjs:
   C: 0.06681677990091467
   HTML: 0.00036311617221087064
@@ -64380,3 +66563,14 @@ zzmp/juliusjs:
   Shell: 0.002291414345055682
 zzw922cn/TensorFlow-Input-Pipeline:
   Python: 1.0
+zzy99/epidemic-sentence-pair:
+  Python: 0.9976986598077704
+  Shell: 0.0023013401922295927
+zzzprojects/System.Linq.Dynamic.Core:
+  ASP.NET: 2.132921725099264e-05
+  Batchfile: 8.022916580648607e-05
+  C#: 0.23234033760041609
+  CSS: 0.00884418928525793
+  HTML: 0.7509596680156255
+  JavaScript: 0.0076078774082692004
+  PowerShell: 0.00014636930737378436

@@ -1,15 +1,14 @@
-- country: Russia
+- country: Ukraine
   results:
-    Boris Yeltsin: 0.5972854167990175
-    Nikolai Ryzhkov: 0.1756417072209227
-    Vladimir Zhirinovsky: 0.08143968575934095
-    Aman Tuleyev: 0.07103462703753873
-    Other candidates: 0.07459856318318014
-  year: '1991'
+    Petro Poroshenko: 0.5545650609048911
+    Yulia Tymoshenko: 0.12996175212779634
+    Oleh Lyashko: 0.08441013128384524
+    Other candidates: 0.2310630556834673
+  year: '2014'
+  link: https://en.wikipedia.org/wiki/2014_Ukrainian_presidential_election
 - languages:
-    C: 0.6111246022468887
-    Shell: 0.17744598352643914
-    PowerShell: 0.09294954106778638
-    C++: 0.053212978314490664
-    Others: 0.06526689484439507
-  repo: pmem/pmdk
+    Scala: 0.5570226607292882
+    Jupyter Notebook: 0.1163479240132632
+    Cuda: 0.08369376323772687
+    Others: 0.24293565201972167
+  repo: https://github.com/BIDData/BIDMach

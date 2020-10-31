@@ -16,14 +16,14 @@ with open(REPOS_FILE, 'r') as f:
 
 def find_election_by_country_and_year(country, year):
     year = str(year)
-    for election in elections.values():
+    for page, election in elections.items():
         try:
             if election['country'] == country and election['year'] == year:
-                return election
+                return page, election
         except KeyError:
             pass
     else:
-        return None
+        return None, None
 
 
 def find_closest_repo(election, trim_to_size=None):
@@ -39,7 +39,7 @@ def find_closest_repo(election, trim_to_size=None):
             continue
         langs = sorted_dict(langs)
         langs = trim_distribution_dict(langs, size=election_size, others_key='Others')
-        distance = dict_to_dict_distance(election_results, langs, 'Linf')
+        distance = dict_to_dict_distance(election_results, langs, 'l2-weights-lin-dec')
         if distance < closest_distance:
             closest_distance = distance
             closest_repo = repo
@@ -51,12 +51,15 @@ def find_closest_repo(election, trim_to_size=None):
     return election_trimmed, repo_trimmed
 
 
-el = find_election_by_country_and_year('Russia', 1991)
-if not el:
+page, election = find_election_by_country_and_year('Sweden', 2014)
+if not election:
     print('Not found :(')
     exit()
 
-election, repo = find_closest_repo(el, trim_to_size=5)
+election_res, repo = find_closest_repo(election, trim_to_size=4)
+
+repo['repo'] = 'https://github.com/' + repo['repo']
+election_res.update({'link': 'https://en.wikipedia.org' + page})
 
 with open('output.yaml', 'w') as f:
-    yaml.dump([election, repo], f, sort_keys=False)
+    yaml.dump([election_res, repo], f, sort_keys=False)

@@ -7,7 +7,7 @@ def sorted_dict(d: Dict) -> Dict:
     return {k: v for k, v in sorted(d.items(), key=lambda item: item[1], reverse=True)}
 
 
-def dict_to_dict_distance(d1: Dict, d2: Dict, method: str = 'L2') -> float:
+def dict_to_dict_distance(d1: Dict, d2: Dict, method: str = 'l2') -> float:
     if len(d1) != len(d2):
         raise ValueError("Dicts must be the same size!")
     method = method.lower()
@@ -18,6 +18,12 @@ def dict_to_dict_distance(d1: Dict, d2: Dict, method: str = 'L2') -> float:
         return sqrt(sum_)
     if method == 'linf' or method == 'cheb':
         return max(abs(v2 - v1) for v1, v2 in zip(d1.values(), d2.values()))
+    if method == 'l2-weights-lin-dec':
+        sum_ = 0
+        weights = range(len(d1), 0, -1)
+        for v1, v2, w in zip(d1.values(), d2.values(), weights):
+            sum_ += w * (v1 - v2) ** 2
+        return sqrt(sum_ / sum(weights))
     else:
         raise ValueError(f"Unknown distance calculation method '{method}'")
 
